@@ -1,0 +1,1017 @@
+sl	movie_name	imdb_id	file_name	file_format	how_parsed	parse_status	file_location	attributes	CSM id
+1	10 Things I Hate About You	tt0147800	10_things_i_hate_about_you.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/10-things-i-hate-about-you
+2	127 Hours	tt1542344	127_hours.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	11ea2756-947b-4709-9a10-0dcd307adc40
+3	12 and Holding	tt0417385	12_and_holding.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+4	Twelve Monkeys	tt0114746	12_monkeys.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	941e9623-273f-4220-8f99-29bc93973dea
+5	12 Years a Slave	tt2024544	12_years_a_slave.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/12-years-a-slave
+6	Thirteen Days	tt0146309	13_days.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	913c896c-2e83-41b2-9a0e-41d1a7d82d53
+7	1492	tt0103594	1492_conquest_of_paradise.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+8	15 Minutes	tt0179626	15_minutes.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/15-minutes
+9	17 Again	tt0974661	17_again.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d018a555-be4a-4edb-9dd8-9465720e34c4
+10	One Eight Seven	tt0118531	187.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+11	2001	tt0062622	2001_a_space_odyssey.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ca63c2a6-f2bf-44a4-a52b-fb79a200ea2a
+12	2012	tt1190080	2012.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a92c5e4d-3044-486b-8861-956dbcdcbb02
+13	Three Kings	tt0120188	3_kings.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f0a5a899-0f04-4405-81b9-94f7c5709ca1
+14	42	tt0453562	42.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	78d51262-65ad-415f-9238-2dc90ba7d045
+15	44 Inch Chest	tt0914837	44_inch_chest.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+16	48 Hrs.	tt0083511	48_hrs..txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cab97b5c-7bd8-47c4-b5d8-fbe57071e9ce
+17	50/50	tt1306980	5050.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0d401c26-3396-4512-a343-c4225811ab33
+18	8MM	tt0134273	8_millimeter.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+19	9	tt0472033	9.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6e883bcd-85e2-48c0-b033-543471837ead
+20	Few Good Men, A	tt0104257	a_few_good_men.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	80f954df-adda-4dab-96a7-2a0b461d66e9
+21	Nightmare on Elm Street, A	tt0087800	a_nightmare_on_elm_street.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/a-nightmare-on-elm-street
+21	Nightmare on Elm Street, A	tt0087800	a_nightmare_on_elm_street.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/a-nightmare-on-elm-street
+22	Serious Man, A	tt1019452	a_serious_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8df46a47-b76f-4017-9175-6ca798540f0d
+23	Walk to Remember, A	tt0281358	a_walk_to_remember.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	351a2bb1-083a-4f02-8179-4b5269338487
+24	Above the Law	tt0094602	above_the_law.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+25	Absolute Power	tt0118548	absolute_power.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+26	Abyss, The	tt0096754	abyss_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e8f5897c-615e-46b0-813c-3ea4ef604709
+27	Adaptation.	tt0268126	adaptation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4d83d60f-5dae-4421-9f57-53be9ba5d3f8
+28	Adventures of Buckaroo Banzai Across the 8th Dimension, The	tt0086856	adventures_of_buckaroo_banzai_across_the_eighth_dimension_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+29	Affliction	tt0118564	affliction.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+30	After.Life	tt0838247	after.life.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eb78c943-79fc-437f-abee-8f3076a4fe12
+31	Agnes of God	tt0088683	agnes_of_god.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+32	Air Force One	tt0118571	air_force_one.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8257f766-43e5-4282-b599-3a19a15b0e30
+33	Airplane!	tt0080339	airplane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	15189cdb-beb8-49e6-a7aa-3f424762ec94
+34	Airplane II	tt0083530	airplane_2_the_sequel.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	534b92d1-5431-426c-869b-ff3d0eb26790
+35	Ali	tt0248667	ali.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3143c124-fb95-48ab-9d06-fa8b5940c63c
+36	Monsters vs. Aliens	tt0892782	alien.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0eff904d-a4ed-4773-a808-077fe6521ba3
+37	Alien Nation	tt0094631	alien_nation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+38	AVP	tt0370263	alien_vs._predator.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/alien-vs-predator
+39	All About Eve	tt0042192	all_about_eve.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e31957c2-b746-4a74-b2e4-eea6e43293b2
+40	All About Steve	tt0881891	all_about_steve.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c1cf566b-96f4-4bb9-8028-112191c61a76
+41	All the King's Men	tt0041113	all_the_kings_men.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	75fd90cc-71c1-4f7c-aace-fd3c4f8369ea
+42	All the President's Men	tt0074119	all_the_presidents_men.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a92147b2-d25c-428a-928c-423c7ae0fb6f
+43	Almost Famous	tt0181875	almost_famous.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	51c68d25-7aa8-44ec-95e7-21cf8e277685
+44	Amadeus	tt0086879	amadeus.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f9c4d4b2-f12c-47bc-be2b-98f60bff550c
+45	Amelia	tt1129445	amelia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	52807042-63ce-48bc-9702-251cd99b91a4
+46	American Beauty	tt0169547	american_beauty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e6b2876d-c8f1-4d40-a587-094a96fe80f1
+47	American Gangster	tt0765429	american_gangster.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	edd41ddf-1d16-4e0b-8567-feb65f21b198
+48	American Graffiti	tt0069704	american_graffiti.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6b134ca9-356a-40ee-a5e7-b7a1e63eb8cb
+49	American History X	tt0120586	american_history_x.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/american-history-x
+50	American Hustle	tt1800241	american_hustle.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/american-hustle
+51	American Pie	tt0163651	american_pie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4bc67c3a-f4af-4b5d-abee-cda16241cb1f
+52	American President, The	tt0112346	american_president_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e966a8d0-264d-46e3-a4bd-276aae8a5145
+53	American Psycho	tt0144084	american_psycho.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4cf52cb8-8db7-4234-8a68-22ca7479d339
+54	American Splendor	tt0305206	american_splendor.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	411009cb-11a6-40ee-8654-15c20e3cf668
+55	American Werewolf in London, An	tt0082010	american_werewolf_in_london.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+56	Amityville Asylum, The	tt2216212	amityville_asylum_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+57	Amour	tt1602620	amour.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/amour
+58	Education, An	tt1174732	an_education.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1cc3e1fb-0bc6-455c-8d31-6c39b5397687
+59	Analyze That	tt0289848	analyze_that.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b3d57a2a-f2b6-4e22-a366-9327e1cba9b5
+60	Analyze This	tt0122933	analyze_this.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+61	Anastasia	tt0118617	anastasia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6c4e2225-8f03-4cc2-a956-e675827cc1e4
+62	Angel Eyes	tt0225071	angel_eyes.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	28e46d12-d392-495d-bd74-1f58a6138e63
+63	Angels & Demons	tt0808151	angels_and_demons.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/angels-demons
+64	Anna Karenina	tt1781769	anna_karenina.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/anna-karenina
+65	Annie Hall	tt0075686	annie_hall.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a7a0749e-c9aa-4d7d-a855-8e48b63e65ea
+66	Anniversary Party, The	tt0254099	anniversary_party_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+66	Anniversary Party, The	tt0254099	anniversary_party_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+67	Anonymous	tt1521197	anonymous.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	14222147-c5e6-475a-8347-679456e0b9bb
+68	Antitrust	tt0218817	antitrust.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	14da8401-9d81-4fa4-a00f-8bbba9f52210
+69	Antz	tt0120587	antz.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8138de24-4c21-415b-9175-e59883bfb25f
+70	Apartment, The	tt0053604	apartment_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	637d9884-5c24-46dc-a9c8-1ec4770b10bd
+71	Apocalypse Now	tt0078788	apocalypse_now_redux.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/apocalypse-now
+72	Apt Pupil	tt0118636	apt_pupil.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+73	Arbitrage	tt1764183	arbitrage.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66e48cc7-e40d-42ff-8b49-f65b8ce924f9
+74	Arcade	tt0106302	arcade.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+75	Arctic Blue	tt0106303	arctic_blue.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+76	Argo	tt1024648	argo.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bdb8eb10-5011-4cde-a24c-d3d0de61dbe7
+77	Armageddon	tt0120591	armageddon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/armageddon
+78	Arsenic and Old Lace	tt0036613	arsenic_and_old_lace.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f0c8ccc6-af48-4b7b-b16d-018310b09d08
+79	As Good as It Gets	tt0119822	as_good_as_it_gets.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	772a1084-c79d-4921-a8d7-9b4bdda4d00a
+80	As Good as It Gets	tt0119822	as_good_as_it_gets_.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	772a1084-c79d-4921-a8d7-9b4bdda4d00a
+81	Assassins	tt0112401	assassins.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+82	Assignment, The	tt0118647	assignment_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+83	August	tt1322269	august_osage_county.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	baa59e49-188b-4ce7-a768-bcb4f544d93d
+84	Austin Powers	tt0145660	austin_powers__the_spy_who_shagged_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/austin-powers-the-spy-who-shagged-me
+85	Austin Powers	tt0118655	austin_powers_international_man_of_mystery.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7c7c79ec-003a-404d-a096-b3dfbc608fa3
+86	Autumn in New York	tt0174480	autumn_in_new_york.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+87	Avatar	tt0499549	avatar.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8b06b3af-c382-4c47-b112-be19d1b8beed
+88	Avengers, The	tt0118661	avengers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+88	Avengers, The	tt0118661	avengers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+89	avventura, L'	tt0053619	avventura_l_the_adventure.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+90	Babel	tt0449467	babel.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	651fa0d5-989f-42d9-af84-382905c96a25
+91	Bachelor Party	tt0086927	bachelor_party.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	943be55c-317f-4cce-9d9f-f590208894c3
+92	Bachelor Party, The	tt0050156	bachelor_party_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+93	Backdraft	tt0101393	backdraft.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9d230789-299a-4a92-9364-b57a651b5a28
+94	Back-up Plan, The	tt1212436	backup_plan_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5899a611-a600-429e-8d48-3d47f7b1c1e6
+95	Bad Boys	tt0112442	bad_boys.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cdd07981-3bc5-407d-bd79-f09b5f145989
+96	Bad Country	tt2350892	bad_country.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+97	Bad Dreams	tt0094701	bad_dreams.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+98	Bad Lieutenant	tt0103759	bad_lieutenant.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+99	Bad Santa	tt0307987	bad_santa.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	657a8426-6e31-4fd0-9c55-4a38752f950a
+100	Bad Teacher	tt1284575	bad_teacher.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	12cd1a92-3ee2-45b7-b2a4-e8ef07f83215
+101	Badlands	tt0069762	badlands.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+102	Bamboozled	tt0215545	bamboozled.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/bamboozled
+103	Barry Lyndon	tt0072684	barry_lyndon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+104	Barton Fink	tt0101410	barton_fink.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cf3e871d-4556-4ab6-bf24-4b75c820dfb1
+105	Basic Instinct	tt0103772	basic_instinct.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	861db53a-a17c-4df5-b7f5-9907a36494aa
+106	Basquiat	tt0115632	basquiat.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+107	Batman	tt0096895	batman.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2a156e82-1a87-465f-adec-a2d27c4eba0b
+108	Batman	tt0060153	batman_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5fbf91af-6756-4405-b2de-085c00916212
+109	Batman Returns	tt0103776	batman_returns.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	863a6750-4a9e-40b9-9ab8-d8f7c9425e55
+110	Battle Los Angeles	tt1217613	battle_los_angeles.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3dab10e0-2540-4d45-ba0e-49268c181a59
+111	battaglia di Algeri, La	tt0058946	battle_of_algiers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+111	battaglia di Algeri, La	tt0058946	battle_of_algiers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+112	Battle of Shaker Heights, The	tt0357470	battle_of_shaker_heights_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+113	Beasts of the Southern Wild	tt2125435	beasts_of_the_southern_wild.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fbb924ec-d990-49bf-ac9e-a3a5a6e4a100
+114	Beavis and Butt-Head Do America	tt0115641	beavis_and_butthead_do_america.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ac3be158-aa67-4269-9dda-006f0f636621
+115	Beetlejuice	tt0094721	beetle_juice.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e55b360d-8134-44af-b39a-aa13f28e6f92
+116	Beginners	tt1532503	beginners.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	99771aa0-c9a8-42de-87c8-cdadee328cfc
+117	Being John Malkovich	tt0120601	being_john_malkovich.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d3e48df6-7894-4404-a5cf-5cd6a6735f52
+118	Being There	tt0078841	being_there.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1f8ed935-73a1-4154-8972-0f07c4d1e432
+119	Believer, The	tt0247199	believer_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+119	Believer, The	tt0247199	believer_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+120	Beloved	tt0120603	beloved.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+121	Below	tt0276816	below.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+122	Best Exotic Marigold Hotel, The	tt1412386	best_exotic_marigold_hotel_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e01704f6-50b0-4742-9438-33360215560b
+123	Big	tt0094737	big.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dee724dd-c404-41a4-833b-c5f8dabff94f
+124	grand bleu, Le	tt0095250	big_blue_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+125	Big Fish	tt0319061	big_fish.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b7ba140f-914e-4b29-ba32-a30d2db15ff7
+126	Big Lebowski, The	tt0118715	big_lebowski_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c62fe0b1-f854-4b2c-925f-1b9c88d632f3
+127	Big White, The	tt0402850	big_white_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+128	Birds, The	tt0056869	birds_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c2a4902a-acc4-4300-891f-7451d014bccd
+129	Birthday Girl	tt0188453	birthday_girl.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c88d119b-9d86-4dfe-8462-c5405920cd51
+130	Black Rain	tt0096933	black_rain.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+131	Black Snake Moan	tt0462200	black_snake_moan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6402860f-f6e7-4a2e-85a8-1c43495aadc6
+132	Black Swan	tt0947798	black_swan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eeee48c0-44b7-4caa-92dd-f6f6d506dfe5
+133	Blade	tt0120611	blade.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	01086dac-ecd4-43fa-89ff-c1c8c3d1fa00
+134	Blade II	tt0187738	blade_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	42a8c477-3c5f-4a52-b53c-6a22256c36fa
+135	Blade Runner	tt0083658	blade_runner.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/blade-runner
+136	Blade Trinity	tt0359013	blade_trinity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bef737a6-738c-48d6-a719-c75600257f1c
+137	Blair Witch Project, The	tt0185937	blair_witch_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1486dcc1-a1ec-4328-9794-5d1f048600df
+138	Blast from the Past	tt0124298	blast_from_the_past_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fbe854ad-2629-474c-a174-703c11ddf966
+139	Blind Side, The	tt0878804	blind_side_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	08ada891-cb4f-4575-a6ea-e49f22b7e420
+140	Bling Ring, The	tt2132285	bling_ring_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5f5c4b2e-2b1d-403a-9f99-49bbb427e05b
+141	Blood and Wine	tt0115710	blood_and_wine.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+142	Blood Simple.	tt0086979	blood_simple.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+143	Blow	tt0221027	blow.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	78e06dc1-fb3f-4812-8cb0-678ca7aa8ba5
+144	Blue Hotel, The	tt0461912	blue_hotel.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+145	Blue Valentine	tt1120985	blue_valentine.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	21651e39-4834-42e6-83f3-3fba7254035b
+146	Blue Velvet	tt0090756	blue_velvet.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dfb5b1a0-1116-48d7-865b-fc3639289f98
+147	Body Heat	tt0082089	body_heat.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+148	Body of Evidence	tt0106453	body_of_evidence.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+149	Bodyguard, The	tt0103855	bodyguard.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	89506daa-4ef7-4886-8a09-0137916bf79f
+150	Bones	tt0166110	bones.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+151	Bonfire of the Vanities, The	tt0099165	bonfire_of_the_vanities.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+152	Bonnie and Clyde	tt0061418	bonnie_and_clyde.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dedd651f-c337-4dd1-94ab-adfa761bbba1
+153	Book of Eli, The	tt1037705	book_of_eli_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fa09a019-c4b8-434e-a220-9aef1b58c4e9
+154	Boondock Saints II	tt1300851	boondock_saints_2_all_saints_day.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+155	Boondock Saints, The	tt0144117	boondock_saints_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+155	Boondock Saints, The	tt0144117	boondock_saints_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+156	Bottle Rocket	tt0115734	bottle_rocket.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fd2ca584-4651-4e52-98d9-0c6670d48057
+157	Bound	tt0115736	bound.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+158	Bounty Hunter, The	tt1038919	bounty_hunter_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6caff264-ae38-47f6-a927-39bcff06eabe
+159	Bourne Identity, The	tt0258463	bourne_identity_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5fa9c2c7-5815-4c04-ba2e-edecae1f88f1
+160	Bourne Supremacy, The	tt0372183	bourne_supremacy_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	39a03e28-359a-4da7-9ec7-4c11c6bdcd2d
+161	Bourne Ultimatum, The	tt0440963	bourne_ultimatum_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	25f51195-308b-43b8-bbf2-bb51d40f0fe9
+162	Braveheart	tt0112573	braveheart.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dae3e5f0-7e1c-418d-845a-3a58f8ee2275
+163	Brazil	tt0088846	brazil.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66389357-7fa5-4dfa-a793-dc53e03dcd8d
+164	Breakdown	tt0118771	breakdown.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+165	Breaking Away	tt0078902	breaking_away.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9cd06f52-7a6c-471e-9dee-7cdc731efc9b
+166	Bridesmaids	tt1478338	bridesmaids.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d24056c1-b51f-42c0-a1a9-43f6a60f8177
+167	Bringing Out the Dead	tt0163988	bringing_out_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+168	Broadcast News	tt0092699	broadcast_news.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5888eb65-ecac-44a5-997e-77e41da53812
+169	Broken Arrow	tt0115759	broken_arrow.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+170	abrazos rotos, Los	tt0913425	broken_embraces.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/broken-embraces
+171	Brothers Bloom, The	tt0844286	brothers_bloom_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e25910a8-0f52-4f08-8dd4-da86d023ce72
+172	Buffy the Vampire Slayer	tt0103893	buffy_the_vampire_slayer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	242c144d-05bc-41d3-89e7-210279e5879f
+173	Bull Durham	tt0094812	bull_durham.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	55e8459f-df21-4fd8-9e61-b29e318d07ee
+174	Burlesque	tt1126591	burlesque.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a0c7bbc4-52d4-4387-904b-23248ab3e205
+175	Burning Annie	tt0307879	burning_annie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+176	Butterfly Effect, The	tt0289879	butterfly_effect_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	382d015d-7f2c-464a-8ded-4d2e82f32146
+177	Cable Guy, The	tt0115798	cable_guy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	17abc6d3-eaed-4725-9fd9-f5483816f850
+178	Candle to Water	tt2387411	candle_to_water.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+179	Capote	tt0379725	capote.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	96468c67-8bca-4de3-82eb-e4fe86f1abc0
+180	Carrie	tt0074285	carrie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ce436edd-6bcb-455a-9a16-c3d6e02ae22b
+181	Cars 2	tt1216475	cars_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/cars-2
+182	Case 39	tt0795351	case_39.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ca611b6f-5a49-4b81-96a7-cc12d8bdb2ff
+183	Casino	tt0112641	casino.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	72593991-ce71-4bba-aa16-569ed53297ef
+184	Cast Away	tt0162222	cast_away.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6c4e509d-720a-4927-86ff-7b0ac36645b0
+185	Catch Me If You Can	tt0264464	catch_me_if_you_can.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c3200109-a52f-4f4c-9a38-a375fb3a3bf2
+186	Cecil B. DeMented	tt0173716	cecil_b._demented.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+187	Cell, The	tt0209958	cell_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	313b59d8-cbe8-4ec3-8bb5-9f594522491a
+188	Cellular	tt0337921	cellular.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d74e5aee-3d8d-496f-8989-350d29091c22
+189	Changeling	tt0824747	changeling.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a9234605-dd6e-4e06-b3db-fb28d44eec79
+190	Chaos	tt0402910	chaos.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+191	Charade	tt0056923	charade.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+192	Charlie's Angels	tt0160127	charlies_angels.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cf9c2893-6cc9-4cec-80f5-89af122c426f
+193	Chasing Amy	tt0118842	chasing_amy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a25ad0fc-8585-4b37-9382-78af179057c2
+194	Cherry Falls	tt0175526	cherry_falls.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+195	Chinatown	tt0071315	chinatown.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	94105da5-6384-4bbe-ac0a-9c81b10e5546
+196	Chronicle	tt1706593	chronicle.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d6c5b7f3-6f49-4bd1-a98a-d237ad569713
+197	Chronicles of Narnia	tt0363771	chronicles_of_narnia_the_lion_the_witch_and_the_wardrobe.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c15fa0c0-80fe-4289-a1dd-cd61399507c3
+198	Cider House Rules, The	tt0124315	cider_house_rules_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7233fa0b-0cc8-4bb7-bf89-0b26e0711630
+199	Cincinnati Kid, The	tt0059037	cincinnati_kid_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+200	Nuovo Cinema Paradiso	tt0095765	cinema_paradiso.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/cinema-paradiso
+201	Cirque du Freak	tt0450405	cirque_du_freak_the_vampires_assistant.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d272e1bb-0292-4330-9b76-393191f8a6f3
+202	Citizen Kane	tt0033467	citizen_kane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7070a102-b405-4ef6-b66b-8c2e5f86fd0c
+203	City of Joy	tt0103976	city_of_joy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+204	Clash of the Titans	tt0800320	clash_of_the_titans.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	36eac9b0-7e1e-4d69-ae1c-137f56ca8565
+205	Clerks	tt0109445	clerks.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ea2ffd52-a472-40e7-84ec-f73460faf2f2
+206	Cobb	tt0109450	cobb.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+207	Code of Silence	tt0088936	code_of_silence.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+208	Cold Mountain	tt0159365	cold_mountain.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	54f5e0b5-ba57-4057-a86d-983ac48455f8
+209	Collateral	tt0369339	collateral.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0e72e787-8028-4503-99e7-bfd4b5752c60
+210	Collateral Damage	tt0233469	collateral_damage.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	62fe83e5-9125-49e1-8346-69b7ddeb8803
+211	Colombiana	tt1657507	colombiana.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b686edd9-d367-4611-9208-8e2d6f34c51a
+212	Conan the Barbarian	tt0816462	conan_the_barbarian.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8a196a38-fc60-4435-9b05-214e8ee44e45
+213	Confessions of a Dangerous Mind	tt0270288	confessions_of_a_dangerous_mind.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7672b984-d463-4a66-999e-970e19876266
+214	Confidence	tt0310910	confidence.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/confidence
+215	Conspiracy Theory	tt0118883	conspiracy_theory.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+216	Copycat	tt0112722	copycat.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+217	Coraline	tt0327597	coraline.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	859a7f06-3ab5-421f-9c64-63d8d92dff30
+218	Cowboys & Aliens	tt0409847	cowboys_and_aliens.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/cowboys-aliens
+219	Crank	tt0479884	crank.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e1d19547-9b75-4da4-8dfe-f8d7c04bcf52
+220	Crash	tt0115964	crash.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+221	Crazy, Stupid, Love.	tt1570728	crazy_stupid_love.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/crazy-stupid-love
+222	Crazylove	tt0416658	crazylove.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+223	Creation	tt0974014	creation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5b7c2ce6-d627-4a1d-8fa1-21472892fc56
+224	Crime Spree	tt0310924	crime_spree.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+225	Croods, The	tt0481499	croods_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	55fdb75a-b54d-4165-b735-2f964dd1f810
+226	Wo hu cang long	tt0190332	crouching_tiger_hidden_dragon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/crouching-tiger-hidden-dragon
+227	Crow	tt0132910	crow_salvation_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+228	Crow, The	tt0109506	crow_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5d22c32f-1feb-4e20-8d4b-a3599cf9747e
+229	Cruel Intentions	tt0139134	cruel_intentions.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	88c55ca1-fecc-4e61-9098-90f757697bd5
+230	Crying Game, The	tt0104036	crying_game.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f1578ed9-70ca-499a-95d0-6938a6575d49
+231	Curious Case of Benjamin Button, The	tt0421715	curious_case_of_benjamin_button_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	35f722be-d6ca-4393-a722-c1acfb316de1
+232	Curse of the Cat People, The	tt0036733	curse_of_the_cat_people.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f09b4ffe-2988-4e10-9507-842f32edaf30
+233	Custody	tt0759956	custody.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+234	Damned United, The	tt1226271	damned_united_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+235	Dark City	tt0118929	dark_city.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	753de754-9903-4bf5-a8b3-9a2e602c1cbd
+236	Dark Knight Rises, The	tt1345836	dark_knight_rises_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	01a97990-73dd-418d-926a-e2a03a64f589
+237	Dark Star	tt0069945	dark_star.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+238	Darkman	tt0099365	darkman.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+239	Date Night	tt1279935	date_night.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	51eb93a8-e663-41bb-b34f-7fa9affa1d19
+240	Complete Guide to Guys	tt0407680	dave_barrys_complete_guide_to_guys.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+241	Dawn of the Dead	tt0077402	dawn_of_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/dawn-of-the-dead
+242	Day of the Dead	tt0088993	day_of_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+243	Day the Earth Stood Still, The	tt0043456	day_the_earth_stood_still_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fc072304-e5be-4273-af2d-6230e94f4279
+244	Dead Poets Society	tt0097165	dead_poets_society.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2852bd7a-b874-404f-a6e9-ae819a702fca
+245	Death to Smoochy	tt0266452	death_to_smoochy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+246	Debt, The	tt1226753	debt_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5b7b6c91-f466-4434-b735-f275098a54f3
+247	Deception	tt0800240	deception.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6a884fe6-855f-42a9-a978-2caba86a5d5f
+248	Deep Cover	tt0104073	deep_cover.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+249	Deer Hunter, The	tt0077416	deer_hunter_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6e111973-b904-46eb-906c-3d21ef444c6d
+250	Defiance	tt1034303	defiance.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0d222efe-df19-4cf5-a8e7-1c167769b12b
+251	Demolition Man	tt0106697	demolition_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/demolition-man
+252	Departed, The	tt0407887	departed_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	16eaa076-491b-49cd-8e07-3c404e9bb515
+253	Descendants, The	tt1033575	descendants_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1062d19e-e9f4-4767-8d21-5d1f85c9d550
+254	Detroit Rock City	tt0165710	detroit_rock_city.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c5011213-6b0e-4ec0-aec0-7e42da2aa171
+255	Devil in a Blue Dress	tt0112857	devil_in_a_blue_dress.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+256	Devil's Advocate, The	tt0118971	devils_advocate.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2f5a5afc-b0cb-43cd-ad0c-389640bce754
+257	Hard, Die	tt0095016	die_hard.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	43c8a103-2834-4a59-8613-a2f9a0786a0a
+258	Hard 2, Die	tt0099423	die_hard_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/die-hard-2-die-harder
+259	Diner	tt0083833	diner.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+260	Disturbia	tt0486822	disturbia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7d684a3d-9c64-463f-b79f-32de09c728b7
+261	Django Unchained	tt1853728	django_unchained.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d985bec1-25bf-4cca-a8a4-539de7355f1b
+262	Do the Right Thing	tt0097216	do_the_right_thing.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/do-the-right-thing
+263	Dog Day Afternoon	tt0072890	dog_day_afternoon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+264	Domino	tt0421054	domino.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/domino
+265	Donnie Darko	tt0246578	donnie_darko.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c27bade1-b2cb-44a5-97b6-8b93b16be6ca
+266	Doors, The	tt0101761	doors_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fff7062c-f28e-478b-b73c-edfbadd7fcc1
+267	Double Indemnity	tt0036775	double_indemnity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1e7805a2-a657-485d-b352-e0d670f1274a
+268	Drag Me to Hell	tt1127180	drag_me_to_hell.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	df3950c2-e612-4410-b1ea-776aa08a9b0a
+269	Dragonslayer	tt0082288	dragon_slayer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60818b7a-8f50-4abf-b2a0-b6e638e1639c
+270	Dragonslayer	tt0082288	dragonslayer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60818b7a-8f50-4abf-b2a0-b6e638e1639c
+271	Drive Angry	tt1502404	drive_angry.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	712a0e6b-e5cc-47a6-b689-965cd8846938
+272	Drop Dead Gorgeous	tt0157503	drop_dead_gorgeous.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+273	Dry White Season, A	tt0097243	dry_white_season_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+274	Duck Soup	tt0023969	duck_soup.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	20fe8f93-342e-4ba8-be70-2d9cca88e7b5
+275	Dumb & Dumber	tt0109686	dumb_and_dumber.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/dumb-and-dumber
+276	Dune	tt0087182	dune.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4a5cb47d-dc8d-478d-8502-ecd33e9609fc
+277	Eagle Eye	tt1059786	eagle_eye.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4d077424-1611-4d0f-bb47-b2503fc18faa
+278	Eastern Promises	tt0765443	eastern_promises.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dd00d549-55dc-417a-9a6c-662060caf88a
+279	Easy A	tt1282140	easy_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6150845d-7f3c-4421-9741-fb02a2aa80b0
+280	Edtv	tt0131369	ed_tv.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	40035641-af45-47b5-b7c4-7607c563f100
+281	Ed Wood	tt0109707	ed_wood.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3c6fc39c-e6c4-4d21-a970-eb1cb858bde8
+282	Edward Scissorhands	tt0099487	edward_scissorhands.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d74b138c-b19a-4022-a87a-3665c14df99a
+283	Election	tt0126886	election.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e4ab348c-16d3-4794-bdaa-01a46e76c91c
+284	Elephant Man, The	tt0080678	elephant_man_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e1f2d861-50cf-4b80-a4c9-ab44f3082d7f
+285	Elizabeth	tt0414055	elizabeth_the_golden_age.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60141e0c-236b-4ad9-8b3b-25273df42545
+286	Enemy of the State	tt0120660	enemy_of_the_state.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7bcaff56-10d4-4f5f-bd78-45197657e0b8
+287	Enough	tt0278435	enough.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+288	Entrapment	tt0137494	entrapment.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6cd6aa22-a441-4f99-b86a-ba67d7e4348c
+289	Erin Brockovich	tt0195685	erin_brockovich.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	266ee600-a33f-4380-8db9-b089071b9774
+290	Escape from L.A.	tt0116225	escape_from_l.a..txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e9c45718-9c2d-40eb-93aa-c7bda283fe5b
+291	Escape from New York	tt0082340	escape_from_new_york.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f2094bb7-0c4f-4f0f-b16a-68d558d12f56
+292	Eternal Sunshine of the Spotless Mind	tt0338013	eternal_sunshine_of_the_spotless_mind.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9f13c432-38fc-4811-be5c-ca2ba12e8649
+293	Even Cowgirls Get the Blues	tt0106834	even_cowgirls_get_the_blues.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+294	Event Horizon	tt0119081	event_horizon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+295	Evil Dead, The	tt0083907	evil_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-evil-dead-1981
+296	Evil Dead II	tt0092991	evil_dead_ii_dead_by_dawn.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+297	Excalibur	tt0082348	excalibur.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/excalibur
+298	eXistenZ	tt0120907	existenz.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+299	Extract	tt1225822	extract.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	468ed77c-9107-48e3-a866-74a44a10b3df
+300	Face/Off	tt0119094	face_off.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	db1c1188-34f9-4f08-8e8e-bd07791b270f
+301	Face/Off	tt0119094	faceoff.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	db1c1188-34f9-4f08-8e8e-bd07791b270f
+302	Fair Game	tt0977855	fair_game.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8b3bed89-50a4-429e-b6f3-2c0e480629dc
+303	Fantastic Four	tt0120667	fantastic_four.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	19404754-1553-4546-9917-615a3b95a8b5
+304	Fantastic Mr. Fox	tt0432283	fantastic_mr_fox.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6a99a159-bf8a-4b28-8d16-b707578f2d15
+305	Fargo	tt0116282	fargo.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cd0c210f-5328-4b1d-8f55-0398dc907e65
+306	Fast Times at Ridgemont High	tt0083929	fast_times_at_ridgemont_high.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	22e1959a-abeb-46a5-be8f-92ca62a474d1
+307	Fatal Instinct	tt0106873	fatal_instinct.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+308	Fault in Our Stars, The	tt2582846	fault_in_our_stars_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	811b0a9b-4498-4ce3-ba1c-5099dc76f66b
+309	Fear and Loathing in Las Vegas	tt0120669	fear_and_loathing_in_las_vegas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ea3b8bb4-36e7-4729-a3de-32be1de619fe
+310	Feast	tt0426459	feast__early_draft.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+311	Ferris Bueller's Day Off	tt0091042	ferris_buellers_day_off.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b0bf4ae7-a9ab-4bf4-9b59-f470062cad9c
+312	Field of Dreams	tt0097351	field_of_dreams.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f54d7a89-7eb8-4a09-a6f1-f7f1779e7d2c
+313	cinquime lment, Le	tt0119116	fifth_element_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0ecb6207-6abc-4af0-badd-7b83c9637790
+314	Fight Club	tt0137523	fight_club.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bc37fd31-f137-464f-b707-0e1bbe435577
+315	Fighter, The	tt0964517	fighter_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7fbc16df-4455-41f1-9920-6cc2e81da350
+316	Final Destination	tt0195714	final_destination.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/final-destination
+317	Final Destination 2	tt0309593	final_destination_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9c41be4b-2d7e-4ff7-b8ba-5f425810cba3
+318	Finding Nemo	tt0266543	finding_nemo.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/finding-nemo
+319	Five Easy Pieces	tt0065724	five_easy_pieces.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ec8fe547-5f1f-4f2b-9c6b-933821820888
+320	Five Feet High and Rising	tt0240507	five_feet_and_rising.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+321	Flash Gordon	tt0080745	flash_gordon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	106c4d88-ffe9-47ea-9cf3-2f44b3648644
+322	Fletch	tt0089155	fletch.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a5292d38-af72-438b-b944-d3d7a94f54ea
+323	Flight	tt1907668	flight.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7e54d199-74fa-4e24-b674-15ecefad4c62
+324	Flightplan	tt0408790	flight_plan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	428e2d0c-2fb7-4d17-a808-55f1167ad791
+325	Flintstones, The	tt0109813	flintstones_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-flintstones
+326	Adventures of Ford Fairlane, The	tt0098987	ford_fairlane_the_adventures_of_ford_fairlane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+326	Adventures of Ford Fairlane, The	tt0098987	ford_fairlane_the_adventures_of_ford_fairlane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+327	Forrest Gump	tt0109830	forrest_gump.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/forrest-gump
+328	Four Rooms	tt0113101	four_rooms.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+329	Foxcatcher	tt1100089	foxcatcher.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	babca8f9-4a5b-48a6-9823-a2c3e0be156e
+330	Fracture	tt0488120	fracture.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5fcf0922-3a2e-4c6a-b9e8-2c22fbadf14d
+331	Frances	tt0083967	frances.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+332	Mary Shelley's Frankenstein	tt0109836	frankenstein.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+333	Freaked	tt0109838	freaked.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+334	Freddy vs. Jason	tt0329101	freddy_vs._jason.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	323634ff-4e8c-4e82-9bf6-813ced9b352b
+335	Frequency	tt0186151	frequency.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6e56cd4d-5438-4a89-9c61-019a57c6a5a9
+336	Friday the 13th	tt0080761	friday_the_13th.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a0e0f109-caca-4d34-b448-e7d576d77591
+337	Friday the 13th Part VIII	tt0097388	friday_the_13th_part_8_jason_takes_manhatten.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+338	From Dusk Till Dawn	tt0116367	from_dusk_till_dawn.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+339	Frozen	tt2294629	frozen_disney.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/frozen-0
+340	Frozen River	tt0978759	frozen_river.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1321e6f6-a570-4b7b-9805-4d78d60dff6b
+341	Fruitvale Station	tt2334649	fruitvale_station.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3863dc55-374a-4842-9d13-65cb17698582
+342	Fugitive, The	tt0106977	fugitive_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eef75ace-a412-460c-8da4-fff418c45cca
+343	G.I. Jane	tt0119173	g.i._jane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+344	G.I. Joe	tt1046173	g.i._joe_the_rise_of_cobra.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e0bd7008-b26b-4033-97b5-e70eef0eb556
+345	Game 6	tt0425055	game_6.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+346	Game, The	tt0119174	game_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	50f52de8-a871-4232-ab81-539dc41b34cc
+347	Gamer	tt1034032	gamer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2c1ce848-11fb-48d2-8a35-d7f6eeffe1cc
+348	Gandhi	tt0083987	gandhi.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a9cdfd69-fa62-41ef-983c-b62084dae70a
+349	Gang Related	tt0118900	gang_related.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+350	Gangs of New York	tt0217505	gangs_of_new_york.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	19d8091c-e318-4404-8b0e-61cc722ad2b8
+351	Garden State	tt0333766	garden_state.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	02b39bbf-469b-4ed1-a489-f0df3c3697fd
+352	Gattaca	tt0119177	gattaca.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cdf74f29-a116-4842-b2ce-60c5c1865b0b
+353	Get Low	tt1194263	get_low.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	622ac220-fd53-42a1-b632-c7b3578d6c32
+354	Get Shorty	tt0113161	get_shorty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ea7b5145-38fb-4717-a891-2b54c1ea5f53
+355	Getaway, The	tt0068638	getaway_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+355	Getaway, The	tt0068638	getaway_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+356	Ghost	tt0099653	ghost.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f21998ac-dc52-485e-bbce-feb083139ebe
+357	Ghost and the Darkness, The	tt0116409	ghost_and_the_darkness_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+357	Ghost and the Darkness, The	tt0116409	ghost_and_the_darkness_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+358	Ghost Rider	tt0259324	ghost_rider.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4334a4c5-38a5-4556-a681-8db4d50696e6
+359	Ghost Ship	tt0288477	ghost_ship.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9d26d178-5216-40ae-baf9-c618d6b8ea71
+360	Ghost World	tt0162346	ghost_world.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/ghost-world
+361	Ghostbusters II	tt0097428	ghostbusters.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f79efdd5-ccf0-4a1f-916f-a715e7a91b15
+362	Ghostbusters II	tt0097428	ghostbusters_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f79efdd5-ccf0-4a1f-916f-a715e7a91b15
+363	Ginger Snaps	tt0210070	ginger_snaps.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5658f7b2-ebc1-4d00-b129-123dfe94532a
+364	Girl with the Dragon Tattoo, The	tt1568346	girl_with_the_dragon_tattoo_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3dd0624f-4db1-48d2-8b38-1d7736d36613
+365	Gladiator	tt0172495	gladiator.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	67b5f0bd-50fb-4eea-a35e-f8ac8f706c4f
+366	Glengarry Glen Ross	tt0104348	glengarry_glen_gross.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+367	Go	tt0139239	go.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2575b43c-ff88-4fcc-bee8-8e00863f39cc
+368	Godfather, The	tt0068646	godfather.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-godfather
+369	Godfather	tt0071562	godfather_part_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-godfather-part-ii
+370	Godfather	tt0099674	godfather_part_iii_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-godfather-part-iii
+371	Gods and Monsters	tt0120684	gods_and_monsters.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+372	Godzilla	tt0120685	godzilla.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	86eda3f0-efcf-42cc-a93b-42b6a0cc0579
+373	Gone in Sixty Seconds	tt0187078	gone_in_60_seconds.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	abe8cdf7-f483-4f6d-8954-e008a675e0d0
+374	Goodfellas	tt0099685	good_fellas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/goodfellas
+375	Good Girl, The	tt0279113	good_girl_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	46c87878-8589-4cb3-9a77-00c79b42384a
+376	Good Will Hunting	tt0119217	good_will_hunting.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6296d153-12d3-4d7b-be6f-0115c79d26bc
+377	Graduate, The	tt0061722	graduate_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4b832ca0-625b-443c-95d9-feb14425a807
+378	Gran Torino	tt1205489	gran_torino.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6546d928-9818-46b1-95ee-9dc18860f095
+379	Grand Hotel	tt0022958	grand_hotel.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+380	Grand Theft Parsons	tt0338075	grand_theft_parsons.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+381	Grapes of Wrath, The	tt0032551	grapes_of_wrath_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fa6de840-a52a-4ffc-8500-c4089022ae99
+382	Gravity	tt1454468	gravity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	342f1075-b938-44b1-9067-47f3402e06a2
+383	Green Mile, The	tt0120689	green_mile_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3c707130-7601-477b-b2b9-552d6978634e
+384	Gremlins	tt0087363	gremlins.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	989dc7b6-43c2-4bc9-a17e-8d93194bd25e
+385	Gremlins 2	tt0099700	gremlins_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5e877be8-1123-4738-b041-7c71045ceb0b
+386	Grosse Pointe Blank	tt0119229	grosse_point_blank.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66102b35-d9b6-4bec-b0f9-e40df4a85ebf
+387	Grosse Pointe Blank	tt0119229	grosse_pointe_blank.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66102b35-d9b6-4bec-b0f9-e40df4a85ebf
+388	Groundhog Day	tt0107048	groundhog_day.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	40d36a35-bfe3-4101-8fa8-dd2fa5394813
+389	Grudge, The	tt0391198	grudge_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-grudge
+390	Hackers	tt0113243	hackers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bf9521d0-f430-45da-b533-339d7237c423
+391	Hall Pass	tt0480687	hall_pass.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/hall-pass
+392	Halloween	tt0077651	halloween.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	08d7cb6a-9bb1-4cbd-bda0-ce4985c23ac0
+393	Halloween	tt0113253	halloween_6_the_curse_of_michael_myers_halloween_666_the_origin_of_michael_myers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+394	Hancock	tt0448157	hancock.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	98c5d1a8-a969-4067-bc16-063460896f88
+395	Hangover, The	tt1119646	hangover_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	32447d35-7ca0-42b7-ace1-aa88ef3852e3
+396	Hannah and Her Sisters	tt0091167	hannah_and_her_sisters.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	51ce785b-9786-4c9a-93ac-1836528d4801
+397	Hannibal	tt0212985	hannibal__mamet.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3d643146-1a0b-4164-9f5b-47f8d4c6db63
+398	Hannibal	tt0212985	hannibal__zaillian.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3d643146-1a0b-4164-9f5b-47f8d4c6db63
+399	Happy Birthday, Wanda June	tt0067180	happy_birthday_wanda_june.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+400	Happy Campers	tt0210094	happy_campers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+401	Happy Feet	tt0366548	happy_feet.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8db6f7a6-90b5-47c6-b163-5c53e1b19ef8
+402	Hard Day's Night, A	tt0058182	hard_days_night_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/a-hard-days-night
+403	Hard Rain	tt0120696	hard_rain.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+404	Harold & Kumar Go to White Castle	tt0366551	harold_and_kumar_go_to_white_castle.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/harold-kumar-go-to-white-castle
+405	Haunting, The	tt0171363	haunting_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ba66b307-b70a-4819-a2bc-50f87104b274
+406	Heat	tt0113277	heat.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e6f7949e-f18c-4b7e-a8bd-f6aec8af242f
+407	Heathers	tt0097493	heathers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2d0a1e21-81ed-4778-a620-4de744eb13f0
+408	Heavenly Creatures	tt0110005	heavenly_creatures.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	93c53f98-ae55-45ad-85e3-2ba4bd027bf0
+409	Heist	tt0252503	heist.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	34b318f6-3c85-4f4e-85f2-111a57dcea80
+410	Hellbound	tt0095294	hellbound_hellraiser_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+411	Hellboy	tt0167190	hellboy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0767076c-6012-4a42-9530-1f7266950b3c
+412	Hellraiser	tt0093177	hellraiser.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5243812a-9d79-4d66-8333-74c04e082c90
+413	Hellraiser III	tt0104409	hellraiser_3_hell_on_earth.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+414	Help, The	tt1454029	help_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	873d8d98-9ce4-4b5f-af28-6c1ba6580499
+415	Henry Fool	tt0122529	henry_fool.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+416	Henry's Crime	tt1220888	henrys_crime.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b91a524a-4084-477a-9a78-3a847fe505a7
+417	Hero	tt0104412	hero.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+418	He's Just Not That Into You	tt1001508	hes_just_not_that_into_you.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	441a9c5b-5c2b-4eb4-b9b2-c7404f17ddbd
+419	Hesher	tt1403177	hesher.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9a415286-7a86-4a9b-949d-dc33f6e87659
+420	Hider in the House	tt0097503	hider_in_the_house.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+421	High Fidelity	tt0146882	high_fidelity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cd99374a-144f-4107-ad02-cf83c62ee390
+422	Highlander	tt0091203	highlander.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	707b7b1c-87f4-425f-8f31-55446c79fa3b
+423	Hills Have Eyes, The	tt0454841	hills_have_eyes_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	67639edc-2c34-421b-b9e7-1d788cb5e966
+424	His Girl Friday	tt0032599	his_girl_friday.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1270d608-dd85-4670-8f29-237cc06607ea
+425	Hitchhiker's Guide to the Galaxy, The	tt0371724	hitchhikers_guide_to_the_galaxy_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8c5c6277-1785-40dd-b87c-75695726396e
+426	Hollow Man	tt0164052	hollow_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c2b59ef2-a306-4ed2-a3fb-d61ba65de082
+427	Honeydripper	tt0829193	honeydripper.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+428	Hope and Glory	tt0093209	hope_and_glory.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+429	Horrible Bosses	tt1499658	horrible_bosses.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d706d651-94e0-4d56-a2d7-b96c6cfcd2d6
+430	Horse Whisperer, The	tt0119314	horse_whisperer_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	98f85f31-8a47-4e5d-b27e-41dee986193d
+431	Hospital, The	tt0067217	hospital_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+432	Hostage	tt0340163	hostage.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bf63ef34-759b-41fc-b29c-c0fa0df7b0f3
+433	Hot Tub Time Machine	tt1231587	hot_tub_time_machine.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/hot-tub-time-machine
+434	Hotel Rwanda	tt0395169	hotel_rwanda.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	67791920-1ae7-4159-a22a-4c8e5c60ccb5
+435	House of 1000 Corpses	tt0251736	house_of_1000_corpses.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+436	House on Haunted Hill	tt0185371	house_on_haunted_hill.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+437	How to Lose Friends & Alienate People	tt0455538	how_to_lose_friends_and_alienate_people.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/how-to-lose-friends-alienate-people
+438	How to Train Your Dragon	tt0892769	how_to_train_your_dragon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bb9868c3-6e67-4b1c-a693-04f78af29eb5
+439	How to Train Your Dragon 2	tt1646971	how_to_train_your_dragon_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2a80242e-17ab-42d1-8ef5-d8d425f3412e
+440	Hudsucker Proxy, The	tt0110074	hudsucker_proxy_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+440	Hudsucker Proxy, The	tt0110074	hudsucker_proxy_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+441	Human Nature	tt0219822	human_nature.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+442	Hunt for Red October, The	tt0099810	hunt_for_red_october_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0ff86e7f-a567-416c-b48c-a193e7431348
+443	Hustler, The	tt0054997	hustler_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	79964c98-aaca-46f9-80ed-ca03103217ac
+444	Am Number Four, I	tt1464540	i_am_number_four.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	11134caa-9ca2-4945-8ce3-1c859e5f09d4
+445	Am Sam, I	tt0277027	i_am_sam.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60a84b4f-8551-4857-b1f0-da2ef52d779a
+446	Love You Phillip Morris, I	tt1045772	i_love_you_phillip_morris.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d41c8334-4b63-4e33-9bb4-c081827b2b86
+447	I, Robot	tt0343818	i_robot.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a18d8c12-f9c1-4238-9493-2db5aa16552e
+448	Spit on Your Grave, I	tt1242432	i_spit_on_your_grave.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+449	Still Know What You Did Last Summer, I	tt0130018	i_still_know_what_you_did_last_summer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7a43a3f6-7bdf-4ddc-a766-61ce5b0499b0
+450	Walked with a Zombie, I	tt0036027	i_walked_with_a_zombie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+451	Ice Storm, The	tt0119349	ice_storm_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0a978a27-e07d-4233-8bba-0cc5937b174d
+452	Ides of March, The	tt1124035	ides_of_march_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ad1efe79-571e-4ef3-ab5a-0336e784b800
+453	I'll Do Anything	tt0110097	ill_do_anything.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+454	In the Bedroom	tt0247425	in_the_bedroom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6cf05da0-8bbe-44ea-9a3e-3da2865610ae
+455	In the Loop	tt1226774	in_the_loop.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+456	Inception	tt1375666	inception.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3043640c-0c61-472f-9912-07464a04a8c5
+457	Independence Day	tt0116629	independence_day.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bc89d2a6-a77f-48d2-92be-bbf0e9d406af
+458	Indiana Jones and the Last Crusade	tt0097576	indiana_jones_and_the_last_crusade.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	aafd9b2a-6e6b-41e6-a770-afe828fcfe35
+459	Raiders of the Lost Ark	tt0082971	indiana_jones_and_the_raiders_of_the_lost_ark.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/indiana-jones-and-the-raiders-of-the-lost-ark
+460	Indiana Jones and the Temple of Doom	tt0087469	indiana_jones_and_the_temple_of_doom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2756bdb2-d6f0-4b8f-a465-328df47777d4
+461	Inglourious Basterds	tt0361748	inglourious_basterds.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c9512b4e-daf7-4779-83a6-28c2c5d45c08
+462	Insider, The	tt0140352	insider_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a51c3474-7c05-4f25-94a6-75c23684ac2d
+463	Insidious	tt2226417	insidious.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	716af2a9-6d2e-49eb-bec3-e889f0d00996
+464	Insomnia	tt0278504	insomnia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	978e3cec-7230-40da-8ea2-900aed80b33f
+465	Interstellar	tt0816692	interstellar.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bc79a260-b455-4c14-bdb8-91a06478b7c7
+466	Interview with the Vampire	tt0110148	interview_with_the_vampire.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/interview-with-the-vampire
+467	Into the Wild	tt0758758	into_the_wild.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0cc34eab-654a-4907-b8e9-8ed9560c9b34
+468	Intolerable Cruelty	tt0138524	intolerable_cruelty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a022f56d-6bcd-4114-9a4b-e77a70e99acc
+469	Inventing the Abbotts	tt0119381	inventing_the_abbotts.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+470	Invention of Lying, The	tt1058017	invention_of_lying_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f9bd1d5b-5bf1-4eb6-b60e-c749e5099db1
+471	Invictus	tt1057500	invictus.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1e91b829-1dad-4564-82dc-456f70e0a710
+472	Island, The	tt0399201	island_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-island
+473	Isle of the Dead	tt0037820	isle_of_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+474	Italian Job, The	tt0317740	italian_job_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	931ab454-9fee-4374-9e48-d1125505ddd8
+475	It's a Wonderful Life	tt0038650	its_a_wonderful_life.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f3218066-fb98-40b9-8912-dac5fecbc39e
+476	It's Complicated	tt1230414	its_complicated.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2cb73652-64db-42cb-b4c1-073c0b1e5a24
+477	Jackie Brown	tt0119396	jackie_brown.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	27425701-5127-4ac3-9039-8a03040eb62f
+478	Jason X	tt0211443	jason_x.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+479	Jaws	tt0073195	jaws.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/jaws
+480	Jaws 2	tt0077766	jaws_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	73298d22-059b-439c-b668-19fda4193df4
+481	Jay and Silent Bob Strike Back	tt0261392	jay_and_silent_bob_strike_back.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	582cbdde-8c6f-4d6f-9e47-11450d5ec6b1
+482	Jennifer Eight	tt0104549	jennifer_eight.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+483	Jennifer's Body	tt1131734	jennifers_body.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	493d6b3a-1fce-4668-8558-11b61ebfce68
+484	Jerry Maguire	tt0116695	jerry_maguire.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	91c86d3d-9900-4f1f-9ed4-4c052f25bbf3
+485	Jeux interdits	tt0043686	jeux_interdits.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+486	JFK	tt0102138	jfk.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/jfk
+487	Jimmy and Judy	tt0425151	jimmy_and_judy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+488	John Q	tt0251160	john_q..txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	44eeaa07-1eb4-4f61-8f06-0246bd1bba71
+489	Judge Dredd	tt0113492	judge_dredd.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	69fc87f8-c109-4f47-89d4-6740d41abc0a
+490	Juno	tt0467406	juno.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4fa16d68-93d3-48b0-8dd9-b6772f1b2349
+491	Jurassic Park	tt0107290	jurassic_park.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	35b6b6d7-0c78-4136-85a2-f3a2d97bbe86
+492	Jurassic Park III	tt0163025	jurassic_park_3.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8df99ed1-3c09-414c-ba2e-aef23319bd69
+493	Lost World	tt0119567	jurassic_park_the_lost_world.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6ec78e97-19a5-498e-b2cc-55da3423ff4e
+494	Kafka	tt0102181	kafka.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+495	Kalifornia	tt0107302	kalifornia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e574a8d5-946d-4eb3-bcf7-7a4644158fbb
+496	Kate & Leopold	tt0035423	kate_and_leopold.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/kate-and-leopold
+497	Kids	tt0113540	kids.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+498	Kids Are All Right, The	tt0842926	kids_are_all_right_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ef09c663-82c4-42d5-8a07-635d7229e7d1
+499	Kill Bill	tt0266697	kill_bill_volume_1_and_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d028cb2a-ecbd-4d19-876b-b3923114b473
+500	Killing Zoe	tt0110265	killing_zoe.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+501	Kingdom, The	tt0431197	kingdom_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	50d9c33d-7c8d-46d2-96f1-281924fdf528
+502	King's Speech, The	tt1504320	kings_speech_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6ef60a6d-a24a-45fc-8c39-48a1c8c34033
+503	Klute	tt0067309	klute.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+504	Knocked Up	tt0478311	knocked_up.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/knocked-up
+505	Kramer vs. Kramer	tt0079417	kramer_vs_kramer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ecdb438d-9549-4c1b-9501-c8a474890e57
+506	Kundun	tt0119485	kundun.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+507	Kung Fu Panda	tt0441773	kung_fu_panda.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0300dec2-5062-4601-8fdc-21f734bcfa51
+508	L.A. Confidential	tt0119488	l.a._confidential.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a9d22fab-10fc-4795-b1aa-28975793cc50
+509	Ladykillers, The	tt0335245	ladykillers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3cbc2deb-3905-43f9-909e-2e85d1722f8a
+510	Land of the Dead	tt0418819	land_of_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c61c45f8-42b3-4573-a772-268dcab35dad
+511	Larry Crowne	tt1583420	larry_crowne.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	18ad416b-361d-4956-b1cd-79e45a80e547
+512	Last Boy Scout, The	tt0102266	last_boy_scout_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+513	Last Chance Harvey	tt1046947	last_chance_harvey.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	77ab6d30-3358-44e8-aa39-32d48ee215f6
+514	Last Station, The	tt0824758	last_station_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	33fa7d8e-2b43-45e8-8039-06daf4e4aea2
+515	Ultimo tango a Parigi	tt0070849	last_tango_in_paris.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+516	Law Abiding Citizen	tt1197624	law_abiding_citizen.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1bd93eda-d2c8-4646-ae09-5eae8b32db7f
+517	diable par la queue, Le	tt0064232	le_diable_par_la_queue.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+518	Leaving Las Vegas	tt0113627	leaving_las_vegas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+519	Legally Blonde	tt0250494	legally_blonde.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	29ecd2ca-de22-4651-903b-b5c9800d0d95
+520	Legend	tt0089469	legend.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	618687f4-df15-47da-b80e-23f509d95218
+521	Legion	tt1038686	legion.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7d63f2fe-5200-4cb3-bb45-798884592220
+522	Misrables, Les	tt1707386	les_miserables.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f86e9e28-fdf8-47de-ab1c-0c52110c3dea
+523	Leviathan	tt0097737	leviathan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+524	Liar Liar	tt0119528	liar_liar.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9be32ea9-adae-4666-8ce8-d914b601d8cf
+525	Life	tt0123964	life.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/life
+526	Life as a House	tt0264796	life_as_a_house.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	611b1426-927d-4e55-b16f-d2eecca88645
+527	Life of Pi	tt0454876	life_of_pi.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d83c79c5-2294-4898-82b0-19d7f97282d2
+528	Light Sleeper	tt0102307	light_sleeper.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+529	Limey, The	tt0165854	limey_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+530	Limitless	tt1219289	limitless.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b0b4de4b-3099-40b3-8a6e-9ebcdf1bf31d
+531	Lincoln	tt0443272	lincoln.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ee831e6f-3331-404f-8ea2-886e48c6f577
+532	Lincoln Lawyer, The	tt1189340	lincoln_lawyer_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	af4ae84a-cc23-4690-b7ca-16ed00027ca0
+533	Little Athens	tt0417907	little_athens.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+534	Little Nicky	tt0185431	little_nicky.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c6b9fc32-86a9-439e-bdf9-d42e956293fc
+535	Lock, Stock and Two Smoking Barrels	tt0120735	lock_stock_and_two_smoking_barrels.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b3c115b7-a967-4242-8c14-c5bb2154b8c9
+536	Lone Star	tt0116905	lone_star.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+537	Long Kiss Goodnight, The	tt0116908	long_kiss_goodnight_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+538	Looper	tt1276104	looper.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1351f8fb-a74c-468d-9343-e76b710f72c6
+539	Lord of Illusions	tt0113690	lord_of_illusions.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+540	Lord of the Rings: Fellowship of the Rint	tt0120737	lord_of_the_rings_fellowship_of_the_ring_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	69fe93ed-49e6-48b9-ae7e-55419500eb3f
+541	Lord of the Rings: The Two Towers	tt0167261	lord_of_the_rings_the_two_towers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-lord-of-the-rings-the-two-towers
+542	Lord of War	tt0399295	lord_of_war.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bda3efe9-8050-4549-9356-bace92453af5
+543	Losers, The	tt0480255	losers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7c100c82-e462-46c5-9339-9a7de6aeb6b9
+544	Lost Highway	tt0116922	lost_highway.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	61484ce9-d2e1-43f1-855f-138cdcae5cca
+545	Lost in Translation	tt0335266	lost_in_translation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	14fe094f-0541-442c-b91d-9ba59e1fde5b
+546	Love & Basketball	tt0199725	love_and_basketball.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/love-and-basketball
+547	Machete	tt0985694	machete.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	94bfa90c-5c29-44c7-8d8c-f2281d997793
+548	Machine Gun Preacher	tt1586752	machine_gun_preacher.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	912e09ab-04fb-4aa0-b8a2-9d9dae81afef
+549	Mad Max 2	tt0082694	mad_max_2_the_road_warrior.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+550	Magnolia	tt0175880	magnolia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+551	Majestic, The	tt0268995	majestic_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fcbb904d-b1a9-4251-9f24-d144f63b62e3
+552	Major League	tt0097815	major_league.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	78fee817-2afb-4d3b-afab-9e11054297e3
+553	Malcolm X	tt0104797	malcolm_x.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/malcolm-x
+554	Malibu's Most Wanted	tt0328099	malibus_most_wanted.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5ba810ab-c9bb-4dd7-96f7-de44be0224c6
+555	Man in the Iron Mask, The	tt0120744	man_in_the_iron_mask.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	41c49de5-a2ed-4cca-96de-c09c01c2aaf1
+556	Man on the Moon	tt0125664	man_on_the_moon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+557	Man Who Knew Too Much, The	tt0049470	man_who_knew_too_much_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+558	Man Who Wasn't There, The	tt0243133	man_who_wasnt_there_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bf277c01-acbe-46e7-9151-be8174e66a71
+559	Manhattan Murder Mystery	tt0107507	manhattan_murder_mystery.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5bcdf262-dc19-4303-9418-44f245276a2a
+560	Manhunter	tt0091474	manhunter.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+561	Margaret	tt0466893	margaret.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	96de5666-a1cd-4062-9727-9f6913fee1c0
+562	Margot at the Wedding	tt0757361	margot_at_the_wedding.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e014df03-2f99-425f-b451-774122f1b90a
+563	mariachi, El	tt0104815	mariachi_el.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+564	Marley & Me	tt0822832	marley_and_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/marley-me
+565	MASH	tt0066026	mash.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/mash-1970
+566	Mask, The	tt0110475	mask_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fd8a095a-f617-4fa8-b528-164fcf6df649
+567	Master and Commander	tt0311113	master_and_commander.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	86877647-42ad-4c20-9cfd-f80c2e209812
+568	Master, The	tt1560747	master_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d431560b-416d-4b7d-84b6-60fef7f6eba6
+569	Matrix, The	tt0133093	matrix_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ab0e43fb-d947-4f51-b867-99a3cdd159de
+570	Maverick	tt0110478	maverick.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/maverick
+571	Max Payne	tt0467197	max_payne.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/max-payne
+572	Mean Streets	tt0070379	mean_streets_season_of_the_witch.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+573	Mechanic, The	tt0068931	mechanic_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+574	Meet Joe Black	tt0119643	meet_joe_black.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+575	Megamind	tt1001526	megamind.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ca8f99d3-7b0b-4125-91be-be2cde9e98db
+576	Memento	tt0209144	memento.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a2950e8b-2c3f-46c2-ac08-ff646447f2ca
+577	Men in Black	tt0119654	men_in_black.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8e40985a-4f8f-44ac-a5b2-ce9cbaca7f73
+578	Men Who Stare at Goats, The	tt1234548	men_who_stare_at_goats_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	474d8c4d-67c5-4049-9e4e-1bf5c009c7bd
+579	Metro	tt0119664	metro.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+580	Miami Vice	tt0430357	miami_vice.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	36d49d6a-1c5c-4668-b717-4126056c16bd
+581	Midnight Cowboy	tt0064665	midnight_cowboy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3bd8e5a8-2f8e-4d80-aa3f-e2eae34e9ca4
+582	Midnight Express	tt0077928	midnight_express.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+583	Mighty Morphin Power Rangers	tt0113820	mighty_morphin_power_rangers_the_movie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d413d695-9ec3-409b-9522-dcbc046d28ba
+584	Miller's Crossing	tt0100150	millers_crossing.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+585	Mimic	tt0119675	mimic.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+586	Mini's First Time	tt0425253	minis_first_time.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+587	Minority Report	tt0181689	minority_report.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	86385ba2-d436-49fd-afa8-817f4b9486dd
+588	Miracle Worker, The	tt0056241	miracle_worker_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a309ed26-6ac1-47c5-aaa9-029bacaa3fa0
+589	Mirrors	tt0790686	mirrors.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b92e96b1-ceed-430c-b138-ab66bc9b18b6
+590	Mission	tt0117060	mission_impossible.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	71515e60-dd07-4569-ac16-8ed075e01f8d
+591	Mission	tt0120755	mission_impossible_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b685dade-4a2d-4bc4-984a-198cbfd45876
+592	Mission to Mars	tt0183523	mission_to_mars.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/mission-to-mars
+593	Mobsters	tt0102460	mobsters.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+594	Monkeybone	tt0166276	monkeybone.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8bc56354-aab0-46f7-9529-b0f0a1fb7296
+595	Monte Carlo	tt1067774	monte_carlo.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	307f19c2-8e38-4b48-a3af-74563d6ba5bc
+596	Moon	tt1182345	moon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+597	Moonrise Kingdom	tt1748122	moonrise_kingdom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c6f88589-29a1-4fc1-beab-19acd9039650
+598	Moonstruck	tt0093565	moonstruck.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ef6c554c-4658-4843-bd4b-44f00f4c1405
+599	Mr. Deeds Goes to Town	tt0027996	mr._deeds_goes_to_town.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fe7801c9-6473-4253-9e10-c317b519bbfb
+600	Mr. Smith Goes to Washington	tt0031679	mr._smith_goes_to_washington.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6c94aec8-89b4-438a-95f8-17bece7fe8aa
+601	Mr. Blandings Builds His Dream House	tt0040613	mr_blandings_builds_his_dream_house.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+602	Mr. Brooks	tt0780571	mr_brooks.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3da7b0db-e91a-421f-982b-6cc7dfcf9111
+603	Mrs Brown	tt0119280	mrs._brown.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+604	Mud	tt1935179	mud.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ad50d638-be01-4c18-9e41-b87a3d99508b
+605	Mumford	tt0140397	mumford.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7710fcd4-1ec4-4aea-a8ff-7cb516e58a0f
+606	Mummy, The	tt0120616	mummy_the_1999.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e3a07b94-8007-43fa-838f-176dd711fbb1
+607	Music of the Heart	tt0166943	music_of_the_heart.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b7d12d12-5661-472e-8b11-7a8debed7d95
+608	Mute Witness	tt0110604	mute_witness.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+609	My Best Friend's Wedding	tt0119738	my_best_friends_wedding.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/my-best-friends-wedding
+610	My Girl	tt0102492	my_girl.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4e26196a-df36-4481-a1ec-0c97dfb33dd0
+611	My Mother Dreams the Satan's Disciples in New York	tt0177023	my_mother_dreams_the_satans_disciples_in_new_york.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+612	My Week with Marilyn	tt1655420	my_week_with_marilyn.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b1e5e347-5e47-4e8e-89e5-52654f8e8323
+613	Mystery Men	tt0132347	mystery_men.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	263c4526-bcce-4542-91d0-6fd1359e8936
+614	Natural Born Killers	tt0110632	natural_born_killers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e6dd824b-5160-4028-af6b-0e1d835acb38
+615	Newsies	tt0104990	newsies.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6c56e87e-04ef-4a88-91b2-026b508877d3
+616	Next	tt0435705	next.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	85e5e1f4-2c56-4782-8aa7-066f6fe0af2e
+617	Next Friday	tt0195945	next_friday.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a0c08b92-8170-4034-93db-a419c2a770ff
+618	Next Three Days, The	tt1458175	next_three_days_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a20bd8ab-4464-4e41-97f0-f010a6f9b57c
+619	Ni vu, ni connu	tt0051989	ni_vu_ni_connu.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+620	Nick of Time	tt0113972	nick_of_time.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+621	Nightmare Before Christmas, The	tt0107688	nightmare_before_christmas_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-nightmare-before-christmas
+621	Nightmare Before Christmas, The	tt0107688	nightmare_before_christmas_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-nightmare-before-christmas
+622	Nightmare on Elm Street, A	tt0087800	nightmare_on_elm_street_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/a-nightmare-on-elm-street
+622	Nightmare on Elm Street, A	tt0087800	nightmare_on_elm_street_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/a-nightmare-on-elm-street
+623	Nine	tt0875034	nine.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4af0643f-4c1e-488e-816c-927623674d3e
+624	Nines, The	tt0810988	nines_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-nines
+625	Ninja Assassin	tt1186367	ninja_assassin.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	282808ac-e263-4162-91bf-9a00dec53742
+626	Ninotchka	tt0031725	ninotchka.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c39e1cc4-2fde-42b2-9e8b-69d4e7f260e8
+627	Ninth Gate, The	tt0142688	ninth_gate_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+628	No Country for Old Men	tt0477348	no_country_for_old_men_shooting.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7e65f71a-dbea-4bed-b5ee-8e81425b3656
+629	No Strings Attached	tt1411238	no_strings_attached.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c17ed776-d03f-4cd1-a34b-5debc996321a
+630	Nurse Betty	tt0171580	nurse_betty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/nurse-betty
+631	Brother, Where Art Thou?, O	tt0190590	o_brother_where_art_thou.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bc821355-446f-4401-ac59-63a36c2842c5
+632	Oblivion	tt1483013	oblivion.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e0a89726-159a-4469-afce-eb05a3f73899
+633	Observe and Report	tt1197628	observe_and_report.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	69a11bc9-2214-4a77-a2b8-465b1e416a79
+634	Obsessed	tt1198138	obsessed.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	97866c14-639e-4889-a4cf-be48dde051aa
+635	Ocean's Eleven	tt0240772	oceans_eleven.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e0344de0-e41c-4214-805a-8d6618776b28
+636	Ocean's Twelve	tt0349903	oceans_twelve.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3f105839-b749-40b2-a022-588e730aef5a
+637	On the Waterfront	tt0047296	on_the_waterfront.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2fc02b7d-7d0f-48fd-9bb1-32b109b21eba
+638	One Flew Over the Cuckoo's Nest	tt0073486	one_flew_over_the_cuckoos_nest.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7edfd19e-6fb0-4769-a971-7a92051d6717
+639	Only God Forgives	tt1602613	only_god_forgives.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b2263eca-7921-40fa-963b-3a644bff63f9
+640	Ordinary People	tt0081283	ordinary_people.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	57d55584-d23b-4c21-ae1f-c06a38e63d14
+641	Orgy of the Dead	tt0054240	orgy_of_the_dead.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+642	Orphan	tt1148204	orphan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9047aeda-d1f9-40ad-ab40-7887e0f9f427
+643	Other Boleyn Girl, The	tt0467200	other_boleyn_girl_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7ca5ca5c-ac62-411d-a028-8b39a7a3172c
+644	Pacifier, The	tt0395699	pacifier_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66471158-9f08-4145-b21b-627fd0d0608f
+645	Pandorum	tt1188729	pandorum.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ecab4766-3694-41d8-89a5-d8a121ed925e
+646	Panther	tt0114084	panther.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+647	Papadopoulos & Sons	tt2006810	papadopoulos_and_sons.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+648	ParaNorman	tt1623288	paranorman.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/paranorman
+649	Pariah	tt1233334	pariah.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e36d56ea-f368-493b-99d7-191a2448754d
+650	Patriot, The	tt0187393	patriot_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eace1637-2444-4158-b83c-14fa7a5a5dc3
+651	Paul	tt1092026	paul.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0cdb534d-2b92-4693-9134-647fa77ce7d7
+652	Pearl Harbor	tt0213149	pearl_harbor.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/pearl-harbor
+653	Peeping Tom	tt0054167	peeping_tom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+654	Perfect Creature	tt0403407	perfect_creature.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+655	Perfect World, A	tt0107808	perfect_world_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+656	Perks of Being a Wallflower, The	tt1659337	perks_of_being_a_wallflower_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a24624d8-2f3f-41c3-bd03-e9c9cc47b8ae
+657	Pet Sematary	tt0098084	pet_sematary.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8f8ff075-282d-49f1-b5ad-f4617aeb0b52
+658	Pet Sematary II	tt0105128	pet_sematary_ii.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+659	Philadelphia	tt0107818	philadelphia.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f16d82a8-d521-4a16-aff5-bcd611c29b49
+660	Phone Booth	tt0183649	phone_booth.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	29f626f1-f586-4961-8122-865af2740f92
+661	Pi	tt0138704	pi.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+662	Pianist, The	tt0253474	pianist_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	179e8914-06ce-4ac1-938a-2396e2d909b9
+663	Piano, The	tt0107822	piano_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	32580d61-8a5e-4edb-a5d1-2e8721fe0fb5
+664	Pineapple Express	tt0910936	pineapple_express.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4fff209f-2359-4747-a21e-199c0d3a66e8
+665	Pirates of the Caribbean	tt0325980	pirates_of_the_caribbean.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a8097d2d-e5b6-4904-a302-c58b11000f54
+666	Pirates of the Caribbean	tt0383574	pirates_of_the_caribbean_dead_mans_chest.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0bf33c65-7113-4d0d-99ca-74741ad862d8
+667	Pitch Black	tt0134847	pitch_black.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b9068b46-d395-4a11-8799-2380d7f4b588
+668	Planet of the Apes	tt0063442	planet_of_the_apes_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a3a12e36-8242-4a81-b7c6-ef5fdcccd18f
+669	Platoon	tt0091763	platoon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f399480b-e4c3-42dc-a24e-686d3d3f266e
+670	Pleasantville	tt0120789	pleasantville.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3773b72e-f478-4273-b81b-0dff2375d889
+671	Point Break	tt0102685	point_break.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ca4d6b25-a748-436a-b7ff-f97f5d561a3b
+672	Gekij-ban poketto monsut - Myts no gyakush	tt0190641	pokemon_mewtwo_returns.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/pokemon-the-first-movie
+673	Postman, The	tt0119925	postman_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+674	Precious	tt0929632	precious.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/precious-based-on-the-novel-push-by-sapphire
+675	Predator	tt0093773	predator.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ccfea467-74d2-4226-808c-58ae0c4573b8
+676	Pretty Woman	tt0100405	pretty_woman_final_script.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	69f46f62-e61b-49bd-92e9-e7e6f79bee30
+677	Pride & Prejudice	tt0414387	pride_and_prejudice.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/pride-prejudice
+678	Priest	tt0822847	priest.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	22f21afb-fe8a-457b-be0f-582eec6da423
+679	Princess Bride, The	tt0093779	princess_bride_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a2d6dee6-f802-47ea-bacc-c86ffba2512f
+680	Private Life of Sherlock Holmes, The	tt0066249	private_life_of_sherlock_holmes_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+681	Producers, The	tt0063462	producer_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-producers-1968
+682	Program, The	tt0107889	program_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+683	Prom Night	tt0081383	prom_night.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d03ed3c8-2cdb-4de7-945a-7f1e756bcda8
+684	Prometheus	tt1446714	prometheus.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	daf21835-621b-4b4d-ad40-09da7bc18bf9
+685	Prophecy, The	tt0114194	prophecy_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+686	Proposal, The	tt1041829	proposal_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5cc3075c-b312-40b8-8939-f9594e0e25d8
+687	Psycho	tt0155975	psycho.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+688	Public Enemies	tt1152836	public_enemies.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5da6f820-6218-4b4b-90b3-18d68464541a
+689	Pulp Fiction	tt0110912	pulp_fiction.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d2307626-4ae9-4524-a65e-46a013cfd7b3
+690	Punch-Drunk Love	tt0272338	punch_drunk_love.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	939e6b6c-afa7-491c-b6fc-cb59a305acb5
+691	Punch-Drunk Love	tt0272338	punchdrunk_love.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	939e6b6c-afa7-491c-b6fc-cb59a305acb5
+692	Purple Rain	tt0087957	purple_rain.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	83d593b5-11fe-483a-9585-732f2cbae280
+693	Quantum Project	tt0239860	quantum_project.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+694	Queen of the Damned	tt0238546	queen_of_the_damned.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+695	Queen, The	tt0436697	queen_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	66485c0e-2066-4fb3-b95c-758b2ebdab75
+696	Quills	tt0180073	quills.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+697	Raging Bull	tt0081398	raging_bull.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d9e1d09f-6bbb-48e9-9087-da2b256dbe49
+698	Raising Arizona	tt0093822	raising_arizona.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c4421c50-7b5b-4ea8-9dc8-66e5fad75e42
+699	Rambling Rose	tt0102753	rambling_rose.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+700	Rambo	tt0089880	rambo_first_blood_ii_the_mission.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	668cda5b-ad9f-4e38-b032-494a740e7394
+701	Reader, The	tt0976051	reader_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d6feb8cb-75f4-4b34-b1df-806835698441
+702	Real Genius	tt0089886	real_genius.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+703	Rear Window	tt0047396	rear_window.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	541fbec9-d176-42c9-b74e-ddc0d62e1c63
+704	Rebel Without a Cause	tt0048545	rebel_without_a_cause.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6055eeac-8196-49be-bf4f-d2592c7d4b71
+705	Red Riding Hood	tt1486185	red_riding_hood.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	65513316-c89e-40a1-8786-06ccaf18a2f1
+706	Relic, The	tt0120004	relic_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+707	Remember Me	tt1403981	remember_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	605b55be-c08d-40d2-a12e-e2d40153c8c4
+708	Replacements, The	tt0191397	replacements_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ffb30de2-c0f1-4550-a780-08e34272123a
+709	Repo Man	tt0087995	repo_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ef81edc8-587f-4adf-9f3f-837740533d4c
+710	Rescuers Down Under, The	tt0100477	rescuers_down_under_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d61d7ef2-b4e4-4793-bede-a81855cc4e59
+711	Reservoir Dogs	tt0105236	reservoir_dogs.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c49d6dc8-eb76-4441-9c92-ef54889f5326
+712	Revenant, The	tt1663202	revenant_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-revenant
+713	Revolutionary Road	tt0959337	revolutionary_road.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bbecbaa2-4b64-4407-acf7-5e6083f01922
+714	Rise of the Guardians	tt1446192	rise_of_the_guardians.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	675fd2ff-23bf-4080-b08b-8f480f2b1513
+715	Rise of the Planet of the Apes	tt1318514	rise_of_the_planet_of_the_apes.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	814c8bba-0308-477d-8a0e-19efffea2c1e
+716	Road, The	tt0898367	road_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7ae6c817-bc3b-4461-b767-67fd3cd8fe08
+717	Robin Hood	tt0102798	robin_hood_prince_of_thieves.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ec087614-7ea1-4e6b-a4d5-94ee56664a2f
+718	Rock, The	tt0117500	rock_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	12478a0b-346c-496c-b1d0-49335eb5d1e5
+719	RocknRolla	tt1032755	rocknrolla.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	86fd5529-3e64-497c-8389-4d797f7eaa6b
+720	Rocky	tt0075148	rocky.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fc129826-544e-4c58-858b-dd49ddad9f47
+721	Rocky Horror Picture Show, The	tt0073629	rocky_horror_picture_show_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1eb2e715-6c72-41b2-9e01-47e007d55e8d
+722	Romeo + Juliet	tt0117509	romeo_and_juliet.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/romeo-juliet
+723	Roommate, The	tt1265990	roommate_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	63e0d8ca-bcdd-4443-9173-f1256ea403a1
+724	Ruins, The	tt0963794	ruins_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9f2d5905-ff97-4dcf-b7b7-b9e833a83832
+725	Runaway Bride	tt0163187	runaway_bride.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e6c800ef-c08e-4264-a6bd-93e28fec297b
+726	Rush	tt1979320	rush.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bb0f7a07-f3ec-49f8-9986-67b4d3e56aa9
+727	Rush Hour	tt0120812	rush_hour.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fe26c591-1574-4854-a4d8-669a30b3389f
+728	Rush Hour 2	tt0266915	rush_hour_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	6ca23f33-56bb-4f79-a059-efde10d8ea4a
+729	rouille et d'os, De	tt2053425	rust_and_bone.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/rust-and-bone
+730	S. Darko	tt1231277	s._darko.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+731	Saint, The	tt0120053	saint_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-saint
+732	Salton Sea, The	tt0235737	salton_sea_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+733	Sandlot, The	tt0108037	sandlot_kids_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	21e6906d-3276-4c5d-aae8-04ffc61f6cae
+734	Save the Last Dance	tt0206275	save_the_last_dance.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d83aae2f-0477-4e20-8c50-18eab0c77fed
+735	Saving Private Ryan	tt0120815	saving_private_ryan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5cbd279-f6fb-44c3-9541-e38e7ccf3b08
+736	Saw	tt0387564	saw.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2485f9a0-90f1-465a-8588-6a8c657a5c5b
+737	Scarface	tt0086250	scarface.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5e35930-c85a-40fe-a151-12e40ed05ba5
+738	Schindler's List	tt0108052	schindlers_list.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	be524081-1b93-48f1-8c3f-ac231e53c2b2
+739	Scream	tt0117571	scream.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5159b52f-8fb7-42ef-ab20-6600180fff17
+740	Scream 2	tt0120082	scream_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3f35adbf-322e-441c-ab2d-46392fd1ae02
+741	Scream 3	tt0134084	scream_3.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	dda2cca3-b848-4c18-a7e2-b5a50a3c2fec
+742	Se7en	tt0114369	se7en.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2290384e-edb8-4da3-b843-57b258b6361b
+743	Searchers, The	tt0049730	searchers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+744	Semi-Pro	tt0839980	semipro.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	899ffa10-e68f-40ec-bddf-4571dc823dd3
+745	Sense and Sensibility	tt0114388	sense_and_sensibility.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	55369197-1b67-409b-b56d-63bd2c8242be
+746	Serenity	tt0379786	serenity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5f2d8b1-46b4-4b4f-9325-dfea3b63e79d
+747	Serial Mom	tt0111127	serial_mom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3ebb935b-b830-4252-86e4-c02337749237
+748	Sessions, The	tt1866249	sessions_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	015f495c-32b8-4c52-a43c-a32bc208919f
+749	sjunde inseglet, Det	tt0050976	seventh_seal_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-seventh-seal
+749	sjunde inseglet, Det	tt0050976	seventh_seal_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-seventh-seal
+750	Sex and the City	tt1000774	sex_and_the_city.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/sex-and-the-city-the-movie
+751	Sexual Life	tt0376874	sexual_life.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+752	Ghost Rock	tt0337626	sgt._rock.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+753	Shakespeare in Love	tt0138097	shakespeare_in_love.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	195445cb-a7e8-41a2-819d-25b1c2c12011
+754	Shallow Grave	tt0111149	shallow_grave.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+755	Shame	tt1723811	shame.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	40beab64-2cb1-4b4f-95b7-876695725446
+756	Sherlock Holmes	tt0988045	sherlock_holmes.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b6856c75-5e98-4fb7-92a6-256f2d35c8a3
+757	She's Out of My League	tt0815236	shes_out_of_my_league.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	82bbecbf-49be-4807-96ce-0ee91fd2da85
+758	Shifty	tt1104126	shifty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+759	Shining, The	tt0081505	shining_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-shining
+759	Shining, The	tt0081505	shining_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-shining
+760	Shipping News, The	tt0120824	shipping_news_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3eb67fed-03de-449f-bff5-584ff9f0e8f7
+761	Shivers	tt0073705	shivers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+762	Shrek	tt0126029	shrek.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/shrek
+763	Shrek the Third	tt0413267	shrek_the_third.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	73c13007-a9d5-4f13-bf47-cb3b59f09ef3
+764	Siege, The	tt0133952	siege_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+765	Signs	tt0286106	signs.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7f2d5be4-797c-42c5-bb60-27feb614d631
+766	Silence of the Lambs, The	tt0102926	silence_of_the_lambs.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	20c373f6-52cf-4e4f-a779-622854cc534c
+767	Silver Bullet	tt0090021	silver_bullet.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+768	Silver Linings Playbook	tt1045658	silver_linings_playbook.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1558f4cd-48e3-4470-abf9-04279c31420e
+769	Silverado	tt0090022	silverado.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+770	S1m0ne	tt0258153	simone.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+771	Sister Act	tt0105417	sister_act.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	00c85ceb-1c03-4c44-b3bb-90d507931e4e
+772	Six Degrees of Separation	tt0108149	six_degrees_of_separation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+773	Sleepy Hollow	tt0162661	sleepy_hollow.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	168bfc0d-c245-44dc-ae9a-4afa454938de
+774	Sling Blade	tt0117666	sling_blade.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	36b51dc0-107a-43e5-ba0d-121b8dd0daa6
+775	Slither	tt0439815	slither.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9c02c759-947c-46ec-8fa9-e02605dd44d4
+776	Slumdog Millionaire	tt1010048	slumdog_millionaire.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	694fa03a-6680-488b-b71e-8878838be40a
+777	Smashed	tt2063781	smashed.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	37f68016-e26a-4f63-b961-71b8513e6f01
+778	Smokey and the Bandit	tt0076729	smokey_and_the_bandit.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	10c46dd5-1d56-4b43-ab6e-73a9123e158a
+779	Smokin' Aces	tt0475394	smokin_aces.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8a55146a-eb30-4263-bcfe-8efdecd0c158
+780	Snow Falling on Cedars	tt0120834	snow_falling_on_cedars.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	924fbfae-33a9-4d06-841c-4f8db468295d
+781	Snow White and the Huntsman	tt1735898	snow_white_and_the_huntsman.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eb8e5dda-b2ca-437a-9663-570fa89a248b
+782	Social Network, The	tt1285016	social_network_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b4325ea6-63d3-4f1f-b192-1d3e3bdb7054
+783	Solaris	tt0307479	solaris.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+784	Soldier	tt0120157	soldier.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+785	Some Like It Hot	tt0053291	some_like_it_hot.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	97e88ac4-37b4-40ef-b6fb-134f7bbbccfb
+786	Someone to Watch Over Me	tt0094008	someone_to_watch_over_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+787	Source Code	tt0945513	source_code.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c4618c4b-158b-470e-8c5c-1e19230274df
+788	South Park	tt0158983	south_park_bigger_longer_uncut.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/south-park-bigger-longer-and-uncut
+789	Spare Me	tt0108200	spare_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+790	Spartan	tt0360009	spartan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0cc34966-3f4b-4761-8e76-80727212cb5f
+791	Speed Racer	tt0811080	speed_racer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eda85eb6-5ca4-4638-9cc2-aad8e6bcecb4
+792	Sphere	tt0120184	sphere.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+793	Spider-Man	tt0145487	spiderman.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	263ffd41-c05f-46f1-bace-89174c7e5a10
+794	St. Elmo's Fire	tt0090060	st._elmos_fire.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7789825e-bf16-4536-acb3-953304df152f
+795	Stalag 17	tt0046359	stalag_17.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	21b60dbb-5124-49d0-b175-d55fd8f34892
+796	Star Trek	tt0796366	star_trek.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/star-trek
+797	Star Trek	tt0117731	star_trek_first_contact.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9ccdd1bb-6480-4126-a1de-3f513e0e90f2
+798	Star Trek	tt0111280	star_trek_generations.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3a09990f-4b60-4f71-87af-69b77833551c
+799	Star Trek	tt0084726	star_trek_ii_the_wrath_of_khan.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7dd85add-70f9-4717-92fa-a90d2230b4aa
+800	Star Trek	tt0253754	star_trek_nemesis.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	691e982f-1473-454f-841b-ed2251a6beb6
+801	Star Wars	tt0076759	star_wars_a_new_hope.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/star-wars-episode-iv-a-new-hope
+802	Star Wars	tt0121765	star_wars_attack_of_the_clones.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f63af840-c2d7-475f-88ed-6471efec8b73
+803	Star Wars	tt0086190	star_wars_return_of_the_jedi.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	96366dc8-3efd-45ac-b42d-4b3b1b63e18f
+804	Star Wars	tt0080684	star_wars_the_empire_strikes_back.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/star-wars-episode-v-the-empire-strikes-back
+805	Star Wars	tt2488496	star_wars_the_force_awakens.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/star-wars-episode-vii-the-force-awakens
+806	Star Wars	tt0120915	star_wars_the_phantom_menace.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/star-wars-episode-i-the-phantom-menace
+807	Starship Troopers	tt0120201	starship_troopers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	eb2f3b8c-c774-4977-9d6e-1461c1fe62f3
+808	State and Main	tt0120202	state_and_main.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0386a295-5c6a-45ee-ab26-7f57ef8d8c34
+809	Station West	tt0040835	station_west.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+810	Stepmom	tt0120686	stepmom.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e9d38516-7539-48fe-806b-67caf5732906
+811	Sting, The	tt0070735	sting_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	879ce888-8303-4296-bfb3-96d566d079de
+812	Stir of Echoes	tt0164181	stir_of_echoes.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+813	Storytelling	tt0250081	storytelling.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+814	Strange Days	tt0114558	strange_days.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+815	Strangers on a Train	tt0044079	strangers_on_a_train.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5a22db9-0fcb-4728-9642-332d41a195e7
+816	Sugar	tt0990413	sugar.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+817	Sugar & Spice	tt0186589	sugar_and_spice.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/sugar-and-spice
+818	Sunset Blvd.	tt0043014	sunset_blvd..txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/sunset-boulevard
+819	Super 8	tt1650062	super_8.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bd9af228-8654-4ec5-993a-fa8830fb95f5
+820	Supergirl	tt0088206	supergirl.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	83e3ebec-c434-4e55-8b41-bbd887e406f3
+821	Surfer King, The	tt0418206	surfer_king_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+822	Surrogates	tt0986263	surrogates.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9a245518-7f04-408d-b9a3-b12fac09d982
+823	Sweeney Todd	tt0408236	sweeney_todd_the_demon_barber_of_fleet_street.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8f290bf9-873b-4303-827b-8d7c1029c9e1
+824	Sweet Hereafter, The	tt0120255	sweet_hereafter_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+824	Sweet Hereafter, The	tt0120255	sweet_hereafter_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+825	Sweet Smell of Success	tt0051036	sweet_smell_of_success.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+826	Swingers	tt0117802	swingers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5ecba6f4-f23a-4bfa-ac69-bb1573e4a389
+827	Swordfish	tt0244244	swordfish.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	051b8398-caf1-4408-b290-9fd8e2b3e52c
+828	Synecdoche, New York	tt0383028	synecdoche_new_york.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+829	Syriana	tt0365737	syriana.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	13fb316b-acf5-4c75-b66d-3833da3ad57f
+830	Take Shelter	tt1675192	take_shelter.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+831	Taking of Pelham 1 2 3, The	tt1111422	taking_of_pelham_one_two_three_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c4a6e858-30ae-444b-8064-2bb6665831ba
+832	Taking Sides	tt0260414	taking_sides.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+833	Talented Mr. Ripley, The	tt0134119	talented_mr._ripley_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c26dd2dc-2bc8-4e51-b8c6-333e48d04be5
+834	Tall in the Saddle	tt0037343	tall_in_the_saddle.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+835	Taxi Driver	tt0075314	taxi_driver.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	62c87714-2026-43a6-a5c5-2f5b106e25f6
+836	Ted	tt1637725	ted.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7a28dfa9-a3f8-42f4-b5d1-0f4671c4afc6
+837	Terminator, The	tt0088247	terminator.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	587746af-c889-4919-a3c4-0c2b015df05a
+838	Terminator 2	tt0103064	terminator_2_judgement_day.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a4582ab6-9b11-4d80-bbc0-cb79eef83c14
+839	Terminator Salvation	tt0438488	terminator_salvation.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	19c677e0-b7b4-4c5c-a915-31761ba82a84
+840	Abyss, The	tt0096754	the_abyss.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e8f5897c-615e-46b0-813c-3ea4ef604709
+841	Adventures of Ford Fairlane, The	tt0098987	the_adventures_of_ford_fairlane_ford_fairlane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+841	Adventures of Ford Fairlane, The	tt0098987	the_adventures_of_ford_fairlane_ford_fairlane.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+842	Anniversary Party, The	tt0254099	the_anniversary_party.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+842	Anniversary Party, The	tt0254099	the_anniversary_party.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+843	Apartment, The	tt0053604	the_apartment.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	637d9884-5c24-46dc-a9c8-1ec4770b10bd
+844	Avengers, The	tt0118661	the_avengers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+844	Avengers, The	tt0118661	the_avengers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+845	battaglia di Algeri, La	tt0058946	the_battle_of_algiers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+845	battaglia di Algeri, La	tt0058946	the_battle_of_algiers.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+846	Believer, The	tt0247199	the_believer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+846	Believer, The	tt0247199	the_believer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+847	Majestic, The	tt0268995	the_bijou.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fcbb904d-b1a9-4251-9f24-d144f63b62e3
+848	Birds, The	tt0056869	the_birds.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c2a4902a-acc4-4300-891f-7451d014bccd
+849	Body Snatcher, The	tt0037549	the_body_snatcher.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+850	Boondock Saints, The	tt0144117	the_boondock_saints.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+850	Boondock Saints, The	tt0144117	the_boondock_saints.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+851	Bourne Identity, The	tt0258463	the_bourne_identity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5fa9c2c7-5815-4c04-ba2e-edecae1f88f1
+852	Cell, The	tt0209958	the_cell.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	313b59d8-cbe8-4ec3-8bb5-9f594522491a
+853	Cider House Rules, The	tt0124315	the_cider_house_rules.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	7233fa0b-0cc8-4bb7-bf89-0b26e0711630
+854	Crying Game, The	tt0104036	the_crying_game.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f1578ed9-70ca-499a-95d0-6938a6575d49
+855	Day the Clown Cried, The	tt0068451	the_day_the_clown_cried.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+856	Krull	tt0085811	the_dragons_of_krull.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+857	English Patient, The	tt0116209	the_english_patient.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f21b1c05-ceb0-4a8a-a76f-e6b1885e3dc2
+858	Fisher King, The	tt0101889	the_fisher_king.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	5d3f6d39-772b-495d-8707-39360a4573a7
+859	French Connection, The	tt0067116	the_french_connection.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5414105-f3ce-45b8-a4ae-8e2ceaae4efb
+860	Game, The	tt0119174	the_game.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	50f52de8-a871-4232-ab81-539dc41b34cc
+861	Getaway, The	tt0068638	the_getaway.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+861	Getaway, The	tt0068638	the_getaway.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+862	Ghost and the Darkness, The	tt0116409	the_ghost_and_the_darkness.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+862	Ghost and the Darkness, The	tt0116409	the_ghost_and_the_darkness.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+863	Grifters, The	tt0099703	the_grifters.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+864	Haunting of Hell House, The	tt0193971	the_haunting_of_hill_house_the_haunting.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+865	Hebrew Hammer, The	tt0317640	the_hebrew_hammer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+866	Hudsucker Proxy, The	tt0110074	the_hudsucker_proxy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+866	Hudsucker Proxy, The	tt0110074	the_hudsucker_proxy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+867	Insider, The	tt0140352	the_insider.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a51c3474-7c05-4f25-94a6-75c23684ac2d
+868	Jacket, The	tt0366627	the_jacket.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1b51d3be-1ee3-4eb2-b760-feacb2c2c984
+869	Life and Death of Colonel Blimp, The	tt0036112	the_life_and_death_of_colonel_blimp.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+870	Man Who Wasn't There, The	tt0243133	the_man_who_wasnt_there.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bf277c01-acbe-46e7-9151-be8174e66a71
+871	Manchurian Candidate, The	tt0368008	the_manchurian_candidate.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+872	Nightmare Before Christmas, The	tt0107688	the_nightmare_before_christmas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-nightmare-before-christmas
+872	Nightmare Before Christmas, The	tt0107688	the_nightmare_before_christmas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-nightmare-before-christmas
+873	Ploughman's Lunch, The	tt0086122	the_ploughmans_lunch.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+874	Princess Bride, The	tt0093779	the_princess_bride.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a2d6dee6-f802-47ea-bacc-c86ffba2512f
+875	Rage	tt0144814	the_rage_carrie_2.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+876	sjunde inseglet, Det	tt0050976	the_seventh_seal.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-seventh-seal
+876	sjunde inseglet, Det	tt0050976	the_seventh_seal.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-seventh-seal
+877	Seventh Victim, The	tt0036341	the_seventh_victim.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+878	Shawshank Redemption, The	tt0111161	the_shawshank_redemption.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-shawshank-redemption
+879	Shining, The	tt0081505	the_shining.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-shining
+879	Shining, The	tt0081505	the_shining.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-shining
+880	Sixth Sense, The	tt0167404	the_sixth_sense.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d85bbfaa-e62d-402e-af8f-bc15f0e5c1a9
+881	Sweet Hereafter, The	tt0120255	the_sweet_hereafter.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+881	Sweet Hereafter, The	tt0120255	the_sweet_hereafter.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+882	Talented Mr. Ripley, The	tt0134119	the_talented_mr._ripley.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c26dd2dc-2bc8-4e51-b8c6-333e48d04be5
+883	Thin Man, The	tt0025878	the_thin_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	73130420-4a1d-4e8b-8523-da125707ec2a
+884	Time Machine, The	tt0268695	the_time_machine.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	05ddccf9-9c78-41dd-884f-58df6bcd8df7
+885	Usual Suspects, The	tt0114814	the_usual_suspects.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9e1c0d67-7945-4e51-ad66-509652797d1b
+886	X Files, The	tt0120902	the_xfiles_movie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8959a746-e6ac-4b3e-a437-cc8364d13f28
+887	Thelma & Louise	tt0103074	thelma_and_louise.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/thelma-and-louise
+888	There's Something About Mary	tt0129387	theres_something_about_mary.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/theres-something-about-mary
+889	Thief	tt0083190	thief.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+890	Thing, The	tt0084787	thing_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	438144eb-cec5-4325-9b96-0c412faa588b
+891	Things My Father Never Taught Me, The	tt2234521	things_my_father_never_taught_me_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+892	This Is 40	tt1758830	this_is_40.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8bb736fd-b0c4-4847-aa16-b4e20788bc6e
+893	Thor	tt0800369	thor.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b7344008-e8e2-438d-b50d-569cb56d7f1f
+894	Three Kings	tt0120188	three_kings_spoils_of_war.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f0a5a899-0f04-4405-81b9-94f7c5709ca1
+895	3 Men and a Baby	tt0094137	three_men_and_a_baby.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	050df867-fcb8-4768-a62e-93f920d6118c
+896	Three Musketeers, The	tt0040876	three_musketeers_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-three-musketeers
+897	Thunderheart	tt0105585	thunderheart.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+898	THX 1138	tt0066434	thx_1138.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b1b1143d-8a0f-4dd9-9a40-8351fd432e76
+899	Ticker	tt0196158	ticker.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+900	Timber Falls	tt0857295	timber_falls.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+901	Time Machine, The	tt0054387	time_machine_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+902	Tin Cup	tt0117918	tin_cup.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+903	Tin Men	tt0094155	tin_men.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+904	TMNT	tt0453556	tmnt.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/tmnt
+905	To Sleep with Anger	tt0100791	to_sleep_with_anger.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+906	Tombstone	tt0108358	tombstone.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b9cb2c8a-2023-4a35-83fb-08a4ba71a366
+907	Tomorrow Never Dies	tt0120347	tomorrow_never_dies.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c8202fd7-6d7b-4b08-9870-1f2cbc5a9fcc
+908	Total Recall	tt0100802	total_recall.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ff78d177-9146-42da-aff5-5e62f34cc975
+909	Tourist, The	tt1243957	tourist_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	88437e51-f53f-41b8-8b75-7de6c37394fb
+910	Toy Story	tt0114709	toy_story.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	10ebe689-efcd-49ce-91b6-b50681b9240f
+911	Traffic	tt0181865	traffic.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d74a253a-9654-4aba-add0-68e0e3f9fc8e
+912	Transformers	tt0092106	transformers_the_movie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4b80ca72-cf3b-49ac-80eb-7dbc25d5c4f2
+913	Tristan + Isolde	tt0375154	tristan_and_isolde.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/tristan-isolde
+914	TRON	tt0084827	tron.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	508335eb-8710-4ac9-a693-7f875b7ef05c
+915	Tron	tt1104001	tron_legacy.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e9923b4a-efef-47d6-ae02-875dcb5d58d9
+916	Tropic Thunder	tt0942385	tropic_thunder.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1492d6da-f3d5-4e6c-bedf-819227a01d63
+917	True Believer	tt0098524	true_believer.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+918	True Grit	tt1403865	true_grit.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b61bb201-7939-42ad-8cf3-669b04630aa0
+919	True Lies	tt0111503	true_lies.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1037caa9-49d5-4979-b0f4-f516ec72d91a
+920	True Romance	tt0108399	true_romance.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+921	Truman Show, The	tt0120382	truman_show_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	290546f4-eacc-4ffa-a41c-d56d040d97fa
+922	Twelve Monkeys	tt0114746	twelve_monkeys.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	941e9623-273f-4220-8f99-29bc93973dea
+923	Twilight	tt1099212	twilight.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	9854ef78-4ae7-49cb-9b5d-b02df7540d4a
+924	Twilight Saga	tt1259571	twilight_new_moon.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d5b943b5-bdcb-4745-b6d8-b0fb8c579388
+925	Twin Peaks	tt0105665	twin_peaks.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+926	Twins	tt0096320	twins.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b6f27047-24bd-475f-a85c-14c287c8b9ad
+927	Two for the Money	tt0417217	two_for_the_money.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d54a81d6-3e35-4511-90c3-0b9d2fc448b7
+928	U Turn	tt0120399	u_turn.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+929	singe en hiver, Un	tt0056636	un_singe_en_hiver.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+930	Unbreakable	tt0217869	unbreakable.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e96d942d-d42c-416d-9e0a-4436551b3493
+931	Under Fire	tt0086510	under_fire.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+932	Unforgiven	tt0105695	unforgiven.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60816069-5c75-498a-9152-cce587974a52
+933	Unknown	tt1401152	unknown.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2718eb6f-d562-455a-af59-ac24f228c0f1
+934	Up in the Air	tt1193138	up_in_the_air.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	cb17b0ee-16d7-42f7-bdb4-78bf9da66d16
+935	V for Vendetta	tt0434409	v_for_vendetta.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a8627c9b-d391-4ab2-8a3f-2c4485dbace7
+936	Valkyrie	tt0985699	valkyrie.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d6668e54-f4df-496b-b323-2569dd796d11
+937	Vanilla Sky	tt0259711	vanilla_sky.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f429730c-e0f8-4968-8fab-191701aad74f
+938	Verdict, The	tt0084855	verdict.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+938	Verdict, The	tt0084855	verdict.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+939	Verdict, The	tt0084855	verdict_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+939	Verdict, The	tt0084855	verdict_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+940	Vertigo	tt0052357	vertigo.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b2314624-07e7-4712-9598-6eb4c43554e1
+941	Very Bad Things	tt0124198	very_bad_things.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+942	Virtuosity	tt0114857	virtuosity.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+943	Visitor, The	tt0857191	visitor_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-visitor
+944	Wag the Dog	tt0120885	wag_the_dog.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	367dce1e-58f9-44e6-81d4-ecbe4d81e0d5
+945	Walk to Remember, A	tt0281358	walk_to_remember_a.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	351a2bb1-083a-4f02-8179-4b5269338487
+946	Walking Tall	tt0351977	walking_tall.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	fbb953f7-4602-41c0-b67e-c4eb371dc183
+947	Wall Street	tt1027718	wall_street_money_never_sleeps.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c7017562-d6be-4173-8a16-b17ad4604d8e
+948	WALLE	tt0910970	walle.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	3cd4c099-a93e-40e4-91bd-fcb593e093d2
+949	Wanted	tt0493464	wanted.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ed914a84-28d6-4172-acce-00a66aa84d0b
+950	War Horse	tt1568911	war_horse.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	ebc21a44-3a76-4dbc-8251-82ae9c9a74bc
+951	War of the Worlds	tt0407304	war_of_the_worlds.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	60e2c14f-781c-4de7-8242-636134c6b9e2
+952	Warm Springs	tt0423510	warm_springs.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+953	Warrior	tt1291584	warrior.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	bf8784a2-372a-4d12-a23d-00180735ff5d
+954	Watchmen	tt0409459	watchmen.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f278b2ec-2a6a-4386-851c-997836b63186
+955	Water for Elephants	tt1067583	water_for_elephants.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d2caf907-6a0a-4272-aeff-bcf926be1d03
+956	We Own the Night	tt0498399	we_own_the_night.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	c5b7cfb1-9ba3-4803-8365-4d62c75b3bcb
+957	What About Bob?	tt0103241	what_about_bob.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	f4a2ff27-de03-4c72-a59c-f403c80e62c5
+958	What Lies Beneath	tt0161081	what_lies_beneath.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e3011f1e-a67c-40f6-8c46-10dd40812a9c
+959	When a Stranger Calls	tt0080130	when_a_stranger_calls.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d8ed9f9d-5be0-462b-be69-49053f69c21e
+960	While She Was Out	tt0887971	while_she_was_out.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+961	Whistleblower, The	tt0896872	whistleblower_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	242f6f6f-67be-4b9e-a0c7-fca508906cbb
+962	White Christmas	tt0047673	white_christmas.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	050d0d5f-6dde-41c4-92e8-44d0fed59011
+963	White Squall	tt0118158	white_squall.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+964	Whiteout	tt0365929	whiteout.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	88761b47-6973-4d10-9818-93c79c8dcae2
+965	Who Framed Roger Rabbit	tt0096438	who_framed_roger_rabbit.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e18c52ee-75e6-4eb7-8640-548dceaf9172
+966	Who Framed Roger Rabbit	tt0096438	who_framed_roger_rabbit_who_shot_roger_rabbit.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e18c52ee-75e6-4eb7-8640-548dceaf9172
+967	Wild at Heart	tt0100935	wild_at_heart.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	
+968	Wild Bunch, The	tt0065214	wild_bunch_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	https://www.commonsensemedia.org/movie-reviews/the-wild-bunch
+969	Wild Hogs	tt0486946	wild_hogs.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	1411dfb9-76f6-45c5-9bb8-f959f90692ee
+970	Wild Things	tt0120890	wild_things.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a89f1b54-6f1d-4176-aecb-99e48eaf6644
+971	Wild Wild West	tt0120891	wild_wild_west.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	a67974d4-75f5-4b8b-9f41-f74c6c3a77b1
+972	Willow	tt0096446	willow.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	2c262f13-ffb6-4b60-9ed2-79f0d28a0ba5
+973	Witness	tt0090329	witness.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	b87d68fb-b2e0-48cc-8a1e-539f738c8031
+974	Wizard of Oz, The	tt0032138	wizard_of_oz_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	998aa5ec-d3f0-4e52-8858-95a1b6a5d67a
+975	Wolf of Wall Street, The	tt0993846	wolf_of_wall_street_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	93721786-749d-49f6-bd17-12d7f98211cc
+976	Wonder Boys	tt0185014	wonder_boys.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	92a2d062-8383-46e2-9765-b34407b3a6ed
+977	World Is Not Enough, The	tt0143145	world_is_not_enough_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	65d87d0d-dfd3-49fd-8e5f-0c06363d8c89
+978	Wrestler, The	tt1125849	wrestler_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	218ae9ea-4028-481a-a7d5-70052a3e7c9a
+979	X Files, The	tt0120902	xfiles_fight_the_future_the.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	8959a746-e6ac-4b3e-a437-cc8364d13f28
+980	xXx	tt0295701	xxx.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	54cc1ec4-fa02-43aa-a302-e51010df98fa
+981	Year One	tt1045778	year_one.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	0ab5dc1e-9ef2-415b-a21c-5d3c9887e39e
+982	Yes Man	tt1068680	yes_man.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	e76fd8d1-b8bd-4df6-9891-77ea40e00d57
+983	You Can Count on Me	tt0203230	you_can_count_on_me.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d501808d-2327-4c9e-a96f-f9b65f0aeafb
+984	Youth in Revolt	tt0403702	youth_in_revolt.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	52a3e411-9d96-46af-9a80-619fd73b865d
+985	You've Got Mail	tt0128853	youve_got_mail.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	d0d98347-9ab3-4d4a-8779-55b559d67d00
+986	Zero Dark Thirty	tt1790885	zero_dark_thirty.txt	text	MICA Text pipeline	completed	avalon:/data/scripts	charname, utterance	4caebece-f4ad-4daa-bf74-28a27622138a
