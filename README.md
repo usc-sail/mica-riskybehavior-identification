@@ -1,7 +1,5 @@
 # Joint Estimation and Analysis of Risk Behavior Ratings in Movie Scripts
 
-![MultiTask Model for risk behavior prediction](https://sail.usc.edu/~victorrm//images/MultitaskDiagram.png)
-
 ## Introduction
 It’s not only about violence! Risk behaviors frequently co-occur with one another, both in real-life (Brener & Collins, 1998) and in entertainment media (Bleakley et al., 2014, 2017; Thompson & Yokota, 2004).
 To capture the this co-occurrence, we develop a multi-task learning (MTL) approach to predict a movie script’s violent, sexual and substance-abusive content.
