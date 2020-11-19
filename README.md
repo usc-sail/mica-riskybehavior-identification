@@ -17,7 +17,10 @@ We initialize the weights of our model with those from the pre-trained BERT-base
 Model parameters: learning rate of 2×10^−5, batch size of 32, and sequences length of 128.
 MovieBERT achieves 96.5% accuracy on the next sentence prediction task, and a 65.9% accuracy on the masked language model--an absolute improvement from the BERT-base model of 24.5% and 12.43%, respectively.
 
-Access to download the pre-trained movieBERT models can be requested [here]().
+#### Obtaining MovieBERT
+We are still in the process of making movieBERT readily available. In the meantime, feel free to contact us via email (victorrm at usc), Github Issue (open an issue here), or any other type of electronic signal.
+
+#### Using MovieBERT
 The following shows how to load movieBERT into memory for feature extraction or representation learning, using [huggingface transformers](https://huggingface.co/transformers/) library:
 
 ```
